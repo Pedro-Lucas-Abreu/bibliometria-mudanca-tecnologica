@@ -33,15 +33,9 @@ Caracterizar a estrutura temática e intelectual da literatura sobre mudança te
 
 O projeto completo utiliza Python 3.11+, pandas, NetworkX e matplotlib. A sequência dos oito scripts é administrada por `executar_tudo.py`.
 
-**Publicação parcial:** os grandes arquivos de dados e o conjunto completo de scripts ainda precisam ser enviados a este repositório. Enquanto isso não acontecer, este link **não deve ser apresentado como disponibilização completa da base processada**.
-
 ## Observações metodológicas
 
 A seleção de artigos e a interpretação das redes dependem de validação manual. Há artigos sem resumo, referências bibliográficas incompletas e casos de títulos duplicados. O núcleo provisório de 208 documentos não representa automaticamente toda a produção relevante.
-
-## Manuscrito
-
-O artigo em LaTeX e seu PDF **não são hospedados neste repositório**, conforme a decisão do autor.
 
 ## Fonte
 
