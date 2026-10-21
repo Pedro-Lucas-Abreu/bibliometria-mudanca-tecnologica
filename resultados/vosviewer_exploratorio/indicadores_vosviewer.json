@@ -1,0 +1,15 @@
+{
+  "fonte": "exportação do VOSviewer anterior à união/triagem dos 3468 trabalhos",
+  "nos": 150,
+  "arestas": 3524,
+  "comunidades_vosviewer": 5,
+  "forca_somada_pesos": 7926,
+  "modularidade_calculada_dos_clusters_exportados": 0.16314,
+  "clusters_tamanho": {
+    "1": 43,
+    "2": 41,
+    "3": 34,
+    "4": 19,
+    "5": 13
+  }
+}

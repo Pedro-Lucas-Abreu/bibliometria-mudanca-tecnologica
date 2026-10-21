@@ -1,0 +1,94 @@
+{
+  "universo": 208,
+  "nucleo": 208,
+  "periodos": [
+    {
+      "periodo": "2000–2012",
+      "n": 28
+    },
+    {
+      "periodo": "2013–2018",
+      "n": 71
+    },
+    {
+      "periodo": "2019–2025",
+      "n": 109
+    }
+  ],
+  "keywords": {
+    "min3": {
+      "n": 122,
+      "arestas": 1226,
+      "forca_total": 2015,
+      "componentes": 1,
+      "clusters": 7,
+      "modularidade": 0.186,
+      "frac_forca_entre_clusters": 0.6099
+    },
+    "min5": {
+      "n": 56,
+      "arestas": 545,
+      "forca_total": 1171,
+      "componentes": 1,
+      "clusters": 5,
+      "modularidade": 0.1371,
+      "frac_forca_entre_clusters": 0.5927
+    },
+    "min8": {
+      "n": 25,
+      "arestas": 186,
+      "forca_total": 612,
+      "componentes": 1,
+      "clusters": 4,
+      "modularidade": 0.0685,
+      "frac_forca_entre_clusters": 0.5261
+    },
+    "min5_sem_ancora": {
+      "n": 55,
+      "arestas": 490,
+      "forca_total": 832,
+      "componentes": 1,
+      "clusters": 5,
+      "modularidade": 0.1857,
+      "frac_forca_entre_clusters": 0.5913
+    }
+  },
+  "acoplamento": {
+    "artigos_com_referencias": 162,
+    "links_2mais": 8775,
+    "pares_1mais": 10149,
+    "maior_componente_2mais": 155,
+    "modularidade": 0.0443,
+    "comunidades": 10
+  },
+  "paises": {
+    "cobertura": 165,
+    "artigos_multinacionais": 50,
+    "arestas_paises": 54
+  },
+  "duplicacoes_titulos_exatas": {
+    "do recessions accelerate routine biased technological change evidence from vacancy postings": [
+      "https://openalex.org/W2894899500",
+      "https://openalex.org/W4301915042"
+    ],
+    "complex task biased technological change and the labor market": [
+      "https://openalex.org/W2584472969",
+      "https://openalex.org/W3123772990"
+    ],
+    "explaining job polarisation in spain from a task perspective": [
+      "https://openalex.org/W2801924098",
+      "https://openalex.org/W2767511076"
+    ],
+    "job polarization and the natural rate of unemployment in the united states": [
+      "https://openalex.org/W2898523402",
+      "https://openalex.org/W3125987961"
+    ],
+    "the polarization of labour market and social integration social integrative law institutions and labour market policy": [
+      "https://openalex.org/W2329765699",
+      "https://openalex.org/W3043909686"
+    ]
+  },
+  "nucleos_sem_resumo": 51,
+  "documentos_sem_refs": 46,
+  "journal_n": 208
+}

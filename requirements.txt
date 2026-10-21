@@ -1,3 +1,5 @@
+# Instalar com: python -m pip install -r requirements.txt
+# Os resultados de Louvain dependem também da versão de NetworkX.
 pandas==2.2.3
 networkx==3.6.1
 matplotlib==3.10.8

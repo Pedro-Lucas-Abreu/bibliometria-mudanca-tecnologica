@@ -1,0 +1,2353 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="documentos_ids" attr.type="string"/>
+<key id="d1" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d0" for="node" attr.name="ocorrencias" attr.type="long"/>
+<graph edgedefault="undirected"><node id="abstract tasks">
+  <data key="d0">5</data>
+</node>
+<node id="automation">
+  <data key="d0">20</data>
+</node>
+<node id="business cycles">
+  <data key="d0">6</data>
+</node>
+<node id="china">
+  <data key="d0">7</data>
+</node>
+<node id="computerization">
+  <data key="d0">6</data>
+</node>
+<node id="employment structure">
+  <data key="d0">11</data>
+</node>
+<node id="european labour market">
+  <data key="d0">6</data>
+</node>
+<node id="france">
+  <data key="d0">6</data>
+</node>
+<node id="germany">
+  <data key="d0">6</data>
+</node>
+<node id="globalization">
+  <data key="d0">11</data>
+</node>
+<node id="great recession">
+  <data key="d0">9</data>
+</node>
+<node id="high-skilled jobs">
+  <data key="d0">6</data>
+</node>
+<node id="high-skilled workers">
+  <data key="d0">6</data>
+</node>
+<node id="information and communication technologies">
+  <data key="d0">5</data>
+</node>
+<node id="italy">
+  <data key="d0">5</data>
+</node>
+<node id="job polarization">
+  <data key="d0">125</data>
+</node>
+<node id="job quality">
+  <data key="d0">8</data>
+</node>
+<node id="labor demand">
+  <data key="d0">5</data>
+</node>
+<node id="labor market">
+  <data key="d0">11</data>
+</node>
+<node id="labor market polarization">
+  <data key="d0">48</data>
+</node>
+<node id="labor market structure">
+  <data key="d0">6</data>
+</node>
+<node id="labor reallocation">
+  <data key="d0">5</data>
+</node>
+<node id="labour market institutions">
+  <data key="d0">6</data>
+</node>
+<node id="labour market policy">
+  <data key="d0">7</data>
+</node>
+<node id="low-skilled jobs">
+  <data key="d0">18</data>
+</node>
+<node id="low-skilled workers">
+  <data key="d0">7</data>
+</node>
+<node id="low-wage employment">
+  <data key="d0">9</data>
+</node>
+<node id="manual tasks">
+  <data key="d0">5</data>
+</node>
+<node id="manufacturing industry">
+  <data key="d0">7</data>
+</node>
+<node id="middle-skill jobs">
+  <data key="d0">8</data>
+</node>
+<node id="middle-skilled workers">
+  <data key="d0">7</data>
+</node>
+<node id="occupational polarization">
+  <data key="d0">6</data>
+</node>
+<node id="occupational structure">
+  <data key="d0">15</data>
+</node>
+<node id="offshoring">
+  <data key="d0">13</data>
+</node>
+<node id="routine occupations">
+  <data key="d0">10</data>
+</node>
+<node id="routine tasks">
+  <data key="d0">18</data>
+</node>
+<node id="routine-biased technological change">
+  <data key="d0">17</data>
+</node>
+<node id="skill composition">
+  <data key="d0">6</data>
+</node>
+<node id="skill heterogeneity">
+  <data key="d0">7</data>
+</node>
+<node id="skill polarization">
+  <data key="d0">8</data>
+</node>
+<node id="skill premium">
+  <data key="d0">6</data>
+</node>
+<node id="skill requirements">
+  <data key="d0">5</data>
+</node>
+<node id="skill upgrading">
+  <data key="d0">8</data>
+</node>
+<node id="skill-biased technological change">
+  <data key="d0">51</data>
+</node>
+<node id="skills mismatch">
+  <data key="d0">7</data>
+</node>
+<node id="spain">
+  <data key="d0">5</data>
+</node>
+<node id="structural change">
+  <data key="d0">9</data>
+</node>
+<node id="technological change">
+  <data key="d0">36</data>
+</node>
+<node id="technology adoption">
+  <data key="d0">5</data>
+</node>
+<node id="unemployment">
+  <data key="d0">7</data>
+</node>
+<node id="united states labor market">
+  <data key="d0">9</data>
+</node>
+<node id="upskilling">
+  <data key="d0">5</data>
+</node>
+<node id="wage distribution">
+  <data key="d0">8</data>
+</node>
+<node id="wage growth">
+  <data key="d0">5</data>
+</node>
+<node id="wage inequality">
+  <data key="d0">34</data>
+</node>
+<node id="wage polarization">
+  <data key="d0">21</data>
+</node>
+<edge source="abstract tasks" target="automation">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2886683709</data>
+</edge>
+<edge source="abstract tasks" target="great recession">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2886683709</data>
+</edge>
+<edge source="abstract tasks" target="information and communication technologies">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4416674080</data>
+</edge>
+<edge source="abstract tasks" target="job polarization">
+  <data key="d1">4</data>
+  <data key="d2">https://openalex.org/W2789805245 | https://openalex.org/W2886683709 | https://openalex.org/W4391699154 | https://openalex.org/W4416674080</data>
+</edge>
+<edge source="abstract tasks" target="labor market">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2886683709</data>
+</edge>
+<edge source="abstract tasks" target="low-wage employment">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4416674080</data>
+</edge>
+<edge source="abstract tasks" target="manual tasks">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2886683709 | https://openalex.org/W4391699154</data>
+</edge>
+<edge source="abstract tasks" target="manufacturing industry">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4391699154</data>
+</edge>
+<edge source="abstract tasks" target="routine tasks">
+  <data key="d1">4</data>
+  <data key="d2">https://openalex.org/W2749277952 | https://openalex.org/W2886683709 | https://openalex.org/W4391699154 | https://openalex.org/W4416674080</data>
+</edge>
+<edge source="abstract tasks" target="routine-biased technological change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4416674080</data>
+</edge>
+<edge source="abstract tasks" target="skill upgrading">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4416674080</data>
+</edge>
+<edge source="abstract tasks" target="technological change">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2789805245 | https://openalex.org/W2886683709 | https://openalex.org/W4391699154</data>
+</edge>
+<edge source="automation" target="computerization">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3163827939</data>
+</edge>
+<edge source="automation" target="germany">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W3033909157 | https://openalex.org/W3156157244</data>
+</edge>
+<edge source="automation" target="great recession">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2886683709</data>
+</edge>
+<edge source="automation" target="high-skilled jobs">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2594139736</data>
+</edge>
+<edge source="automation" target="information and communication technologies">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2594139736 | https://openalex.org/W3117255732</data>
+</edge>
+<edge source="automation" target="job polarization">
+  <data key="d1">11</data>
+  <data key="d2">https://openalex.org/W2144089836 | https://openalex.org/W2528500156 | https://openalex.org/W2594139736 | https://openalex.org/W2886683709 | https://openalex.org/W2930567992 | https://openalex.org/W2985589102 | https://openalex.org/W3022902337 | https://openalex.org/W3117255732 | https://openalex.org/W3174480891 | https://openalex.org/W3179087485 | https://openalex.org/W4408072155</data>
+</edge>
+<edge source="automation" target="labor market">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2886683709</data>
+</edge>
+<edge source="automation" target="labor market polarization">
+  <data key="d1">4</data>
+  <data key="d2">https://openalex.org/W3033909157 | https://openalex.org/W3156157244 | https://openalex.org/W4200599862 | https://openalex.org/W4289794295</data>
+</edge>
+<edge source="automation" target="labor market structure">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2594139736</data>
+</edge>
+<edge source="automation" target="labor reallocation">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2584472969 | https://openalex.org/W3123772990</data>
+</edge>
+<edge source="automation" target="labour market policy">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3174480891</data>
+</edge>
+<edge source="automation" target="low-skilled jobs">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2594139736 | https://openalex.org/W2985589102</data>
+</edge>
+<edge source="automation" target="manual tasks">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2886683709</data>
+</edge>
+<edge source="automation" target="manufacturing industry">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2985589102 | https://openalex.org/W3174480891</data>
+</edge>
+<edge source="automation" target="middle-skill jobs">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2594139736</data>
+</edge>
+<edge source="automation" target="occupational structure">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2528500156</data>
+</edge>
+<edge source="automation" target="offshoring">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2144089836 | https://openalex.org/W4200599862</data>
+</edge>
+<edge source="automation" target="routine occupations">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2584472969 | https://openalex.org/W3156157244 | https://openalex.org/W3163827939</data>
+</edge>
+<edge source="automation" target="routine tasks">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2144089836 | https://openalex.org/W2886683709 | https://openalex.org/W3033909157</data>
+</edge>
+<edge source="automation" target="routine-biased technological change">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W3025498084 | https://openalex.org/W3163827939 | https://openalex.org/W4412752810</data>
+</edge>
+<edge source="automation" target="skill heterogeneity">
+  <data key="d1">4</data>
+  <data key="d2">https://openalex.org/W2584472969 | https://openalex.org/W3123772990 | https://openalex.org/W3174480891 | https://openalex.org/W4408072155</data>
+</edge>
+<edge source="automation" target="skill premium">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4412752810</data>
+</edge>
+<edge source="automation" target="skill requirements">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4289794295</data>
+</edge>
+<edge source="automation" target="skill-biased technological change">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2985589102 | https://openalex.org/W3022902337 | https://openalex.org/W3174480891</data>
+</edge>
+<edge source="automation" target="structural change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3174480891</data>
+</edge>
+<edge source="automation" target="technological change">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2594139736 | https://openalex.org/W2886683709</data>
+</edge>
+<edge source="automation" target="unemployment">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3156157244</data>
+</edge>
+<edge source="automation" target="united states labor market">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3117255732</data>
+</edge>
+<edge source="automation" target="wage growth">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2584472969 | https://openalex.org/W3123772990</data>
+</edge>
+<edge source="automation" target="wage inequality">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3179087485</data>
+</edge>
+<edge source="automation" target="wage polarization">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3033909157</data>
+</edge>
+<edge source="business cycles" target="france">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4392348990</data>
+</edge>
+<edge source="business cycles" target="high-skilled workers">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2097878363</data>
+</edge>
+<edge source="business cycles" target="job polarization">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2617712598 | https://openalex.org/W4392348990 | https://openalex.org/W7217172604</data>
+</edge>
+<edge source="business cycles" target="labor demand">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4401643884</data>
+</edge>
+<edge source="business cycles" target="labor market polarization">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2097878363 | https://openalex.org/W2983296220</data>
+</edge>
+<edge source="business cycles" target="labor market structure">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W7217172604</data>
+</edge>
+<edge source="business cycles" target="low-skilled workers">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2097878363</data>
+</edge>
+<edge source="business cycles" target="routine-biased technological change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4401643884</data>
+</edge>
+<edge source="business cycles" target="skill-biased technological change">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2097878363 | https://openalex.org/W2617712598</data>
+</edge>
+<edge source="business cycles" target="unemployment">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4392348990</data>
+</edge>
+<edge source="business cycles" target="united states labor market">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2983296220</data>
+</edge>
+<edge source="business cycles" target="wage inequality">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2097878363</data>
+</edge>
+<edge source="business cycles" target="wage polarization">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W7217172604</data>
+</edge>
+<edge source="china" target="employment structure">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4382796983</data>
+</edge>
+<edge source="china" target="high-skilled workers">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4353081282</data>
+</edge>
+<edge source="china" target="job polarization">
+  <data key="d1">5</data>
+  <data key="d2">https://openalex.org/W2213841331 | https://openalex.org/W2893443746 | https://openalex.org/W4353081282 | https://openalex.org/W4404673181 | https://openalex.org/W4416956197</data>
+</edge>
+<edge source="china" target="labor market">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2893443746</data>
+</edge>
+<edge source="china" target="low-skilled jobs">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4382796983</data>
+</edge>
+<edge source="china" target="low-skilled workers">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4353081282</data>
+</edge>
+<edge source="china" target="low-wage employment">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2213841331</data>
+</edge>
+<edge source="china" target="manual tasks">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2213841331</data>
+</edge>
+<edge source="china" target="middle-skilled workers">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4353081282</data>
+</edge>
+<edge source="china" target="occupational structure">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4416956197</data>
+</edge>
+<edge source="china" target="routine tasks">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2213841331</data>
+</edge>
+<edge source="china" target="routine-biased technological change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W7117554030</data>
+</edge>
+<edge source="china" target="skill composition">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4353081282</data>
+</edge>
+<edge source="china" target="skill-biased technological change">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W4382796983 | https://openalex.org/W7117554030</data>
+</edge>
+<edge source="china" target="technological change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2213841331</data>
+</edge>
+<edge source="china" target="wage inequality">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4382796983</data>
+</edge>
+<edge source="computerization" target="globalization">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3158026905</data>
+</edge>
+<edge source="computerization" target="job polarization">
+  <data key="d1">4</data>
+  <data key="d2">https://openalex.org/W2801924098 | https://openalex.org/W3082419529 | https://openalex.org/W3136348801 | https://openalex.org/W3158026905</data>
+</edge>
+<edge source="computerization" target="job quality">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3136348801</data>
+</edge>
+<edge source="computerization" target="labor market">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3082419529</data>
+</edge>
+<edge source="computerization" target="labor market polarization">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W3124544360 | https://openalex.org/W3158026905</data>
+</edge>
+<edge source="computerization" target="low-wage employment">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3124544360</data>
+</edge>
+<edge source="computerization" target="offshoring">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3158026905</data>
+</edge>
+<edge source="computerization" target="routine occupations">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3163827939</data>
+</edge>
+<edge source="computerization" target="routine tasks">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2801924098</data>
+</edge>
+<edge source="computerization" target="routine-biased technological change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3163827939</data>
+</edge>
+<edge source="computerization" target="skill-biased technological change">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2801924098 | https://openalex.org/W3082419529</data>
+</edge>
+<edge source="computerization" target="united states labor market">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W3124544360 | https://openalex.org/W3158026905</data>
+</edge>
+<edge source="computerization" target="wage distribution">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2801924098 | https://openalex.org/W3124544360</data>
+</edge>
+<edge source="computerization" target="wage inequality">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3124544360</data>
+</edge>
+<edge source="computerization" target="wage polarization">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3158026905</data>
+</edge>
+<edge source="employment structure" target="european labour market">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2094615217 | https://openalex.org/W2158550634</data>
+</edge>
+<edge source="employment structure" target="globalization">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2158550634</data>
+</edge>
+<edge source="employment structure" target="high-skilled jobs">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3183893887</data>
+</edge>
+<edge source="employment structure" target="high-skilled workers">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2998455712</data>
+</edge>
+<edge source="employment structure" target="job polarization">
+  <data key="d1">6</data>
+  <data key="d2">https://openalex.org/W2094615217 | https://openalex.org/W2117580767 | https://openalex.org/W2158550634 | https://openalex.org/W2533829491 | https://openalex.org/W3183893887 | https://openalex.org/W4402589585</data>
+</edge>
+<edge source="employment structure" target="job quality">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2094615217</data>
+</edge>
+<edge source="employment structure" target="labor demand">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2903587259</data>
+</edge>
+<edge source="employment structure" target="labor market polarization">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2282957970 | https://openalex.org/W2998455712 | https://openalex.org/W4281993758</data>
+</edge>
+<edge source="employment structure" target="low-skilled jobs">
+  <data key="d1">4</data>
+  <data key="d2">https://openalex.org/W2158550634 | https://openalex.org/W3183893887 | https://openalex.org/W4382796983 | https://openalex.org/W4402589585</data>
+</edge>
+<edge source="employment structure" target="low-skilled workers">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2998455712</data>
+</edge>
+<edge source="employment structure" target="middle-skill jobs">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2094615217 | https://openalex.org/W2158550634</data>
+</edge>
+<edge source="employment structure" target="middle-skilled workers">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2998455712</data>
+</edge>
+<edge source="employment structure" target="offshoring">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2158550634</data>
+</edge>
+<edge source="employment structure" target="routine-biased technological change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2903587259</data>
+</edge>
+<edge source="employment structure" target="skill composition">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2998455712</data>
+</edge>
+<edge source="employment structure" target="skill requirements">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4402589585</data>
+</edge>
+<edge source="employment structure" target="skill upgrading">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2533829491</data>
+</edge>
+<edge source="employment structure" target="skill-biased technological change">
+  <data key="d1">5</data>
+  <data key="d2">https://openalex.org/W2094615217 | https://openalex.org/W2158550634 | https://openalex.org/W2533829491 | https://openalex.org/W3183893887 | https://openalex.org/W4382796983</data>
+</edge>
+<edge source="employment structure" target="structural change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2094615217</data>
+</edge>
+<edge source="employment structure" target="technological change">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2094615217 | https://openalex.org/W2282957970</data>
+</edge>
+<edge source="employment structure" target="technology adoption">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4402589585</data>
+</edge>
+<edge source="employment structure" target="upskilling">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4402589585</data>
+</edge>
+<edge source="employment structure" target="wage inequality">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2282957970 | https://openalex.org/W4382796983</data>
+</edge>
+<edge source="employment structure" target="wage polarization">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2282957970 | https://openalex.org/W2903587259 | https://openalex.org/W4281993758</data>
+</edge>
+<edge source="european labour market" target="globalization">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2158550634</data>
+</edge>
+<edge source="european labour market" target="high-skilled jobs">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2933365559</data>
+</edge>
+<edge source="european labour market" target="job polarization">
+  <data key="d1">5</data>
+  <data key="d2">https://openalex.org/W2094615217 | https://openalex.org/W2158550634 | https://openalex.org/W2325270150 | https://openalex.org/W2836580928 | https://openalex.org/W2933365559</data>
+</edge>
+<edge source="european labour market" target="job quality">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2094615217</data>
+</edge>
+<edge source="european labour market" target="labor market polarization">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2912760045</data>
+</edge>
+<edge source="european labour market" target="labor reallocation">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2912760045</data>
+</edge>
+<edge source="european labour market" target="labour market institutions">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2912760045</data>
+</edge>
+<edge source="european labour market" target="low-skilled jobs">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2158550634 | https://openalex.org/W2933365559</data>
+</edge>
+<edge source="european labour market" target="low-wage employment">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2836580928</data>
+</edge>
+<edge source="european labour market" target="manufacturing industry">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2836580928</data>
+</edge>
+<edge source="european labour market" target="middle-skill jobs">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2094615217 | https://openalex.org/W2158550634</data>
+</edge>
+<edge source="european labour market" target="offshoring">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2158550634 | https://openalex.org/W2912760045</data>
+</edge>
+<edge source="european labour market" target="routine tasks">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2836580928</data>
+</edge>
+<edge source="european labour market" target="skill-biased technological change">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2094615217 | https://openalex.org/W2158550634</data>
+</edge>
+<edge source="european labour market" target="skills mismatch">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2325270150</data>
+</edge>
+<edge source="european labour market" target="structural change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2094615217</data>
+</edge>
+<edge source="european labour market" target="technological change">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2094615217 | https://openalex.org/W2836580928 | https://openalex.org/W2912760045</data>
+</edge>
+<edge source="france" target="job polarization">
+  <data key="d1">5</data>
+  <data key="d2">https://openalex.org/W2476839729 | https://openalex.org/W2901549315 | https://openalex.org/W3033062257 | https://openalex.org/W3157583196 | https://openalex.org/W4392348990</data>
+</edge>
+<edge source="france" target="low-skilled jobs">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2901549315</data>
+</edge>
+<edge source="france" target="occupational polarization">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W1587125906</data>
+</edge>
+<edge source="france" target="skill polarization">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2901549315</data>
+</edge>
+<edge source="france" target="skill-biased technological change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3157583196</data>
+</edge>
+<edge source="france" target="technological change">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2476839729 | https://openalex.org/W2901549315</data>
+</edge>
+<edge source="france" target="technology adoption">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3033062257</data>
+</edge>
+<edge source="france" target="unemployment">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4392348990</data>
+</edge>
+<edge source="france" target="wage inequality">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2476839729 | https://openalex.org/W3033062257</data>
+</edge>
+<edge source="germany" target="job polarization">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2606967191 | https://openalex.org/W3040763789 | https://openalex.org/W3124997991</data>
+</edge>
+<edge source="germany" target="labor demand">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3040763789</data>
+</edge>
+<edge source="germany" target="labor market polarization">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W3033909157 | https://openalex.org/W3156157244</data>
+</edge>
+<edge source="germany" target="labor reallocation">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3124997991</data>
+</edge>
+<edge source="germany" target="low-skilled jobs">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2606967191</data>
+</edge>
+<edge source="germany" target="occupational polarization">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2569625930</data>
+</edge>
+<edge source="germany" target="offshoring">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3124997991</data>
+</edge>
+<edge source="germany" target="routine occupations">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3156157244</data>
+</edge>
+<edge source="germany" target="routine tasks">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3033909157</data>
+</edge>
+<edge source="germany" target="skill upgrading">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2606967191</data>
+</edge>
+<edge source="germany" target="skill-biased technological change">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2569625930 | https://openalex.org/W2606967191</data>
+</edge>
+<edge source="germany" target="spain">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2569625930 | https://openalex.org/W2606967191</data>
+</edge>
+<edge source="germany" target="unemployment">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3156157244</data>
+</edge>
+<edge source="germany" target="wage polarization">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3033909157</data>
+</edge>
+<edge source="globalization" target="job polarization">
+  <data key="d1">7</data>
+  <data key="d2">https://openalex.org/W2040848972 | https://openalex.org/W2158550634 | https://openalex.org/W3123412422 | https://openalex.org/W3158026905 | https://openalex.org/W3207283844 | https://openalex.org/W4283362623 | https://openalex.org/W4400474307</data>
+</edge>
+<edge source="globalization" target="labor market polarization">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2040848972 | https://openalex.org/W3158026905</data>
+</edge>
+<edge source="globalization" target="labour market policy">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4400474307</data>
+</edge>
+<edge source="globalization" target="low-skilled jobs">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2158550634 | https://openalex.org/W4413751012</data>
+</edge>
+<edge source="globalization" target="middle-skill jobs">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2158550634 | https://openalex.org/W4413751012</data>
+</edge>
+<edge source="globalization" target="middle-skilled workers">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4283362623</data>
+</edge>
+<edge source="globalization" target="occupational polarization">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W3123412422 | https://openalex.org/W3207283844</data>
+</edge>
+<edge source="globalization" target="offshoring">
+  <data key="d1">4</data>
+  <data key="d2">https://openalex.org/W2040848972 | https://openalex.org/W2158550634 | https://openalex.org/W3123412422 | https://openalex.org/W3158026905</data>
+</edge>
+<edge source="globalization" target="routine-biased technological change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2902310957</data>
+</edge>
+<edge source="globalization" target="skill polarization">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2040848972</data>
+</edge>
+<edge source="globalization" target="skill upgrading">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3123412422</data>
+</edge>
+<edge source="globalization" target="skill-biased technological change">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2040848972 | https://openalex.org/W2158550634</data>
+</edge>
+<edge source="globalization" target="technological change">
+  <data key="d1">6</data>
+  <data key="d2">https://openalex.org/W2797328649 | https://openalex.org/W2902310957 | https://openalex.org/W3207283844 | https://openalex.org/W4283362623 | https://openalex.org/W4400474307 | https://openalex.org/W4413751012</data>
+</edge>
+<edge source="globalization" target="united states labor market">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2233688439 | https://openalex.org/W3158026905</data>
+</edge>
+<edge source="globalization" target="wage growth">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2902310957</data>
+</edge>
+<edge source="globalization" target="wage inequality">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2040848972 | https://openalex.org/W4283362623 | https://openalex.org/W4400474307</data>
+</edge>
+<edge source="globalization" target="wage polarization">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2233688439 | https://openalex.org/W3158026905 | https://openalex.org/W4283362623</data>
+</edge>
+<edge source="great recession" target="italy">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2888582947</data>
+</edge>
+<edge source="great recession" target="job polarization">
+  <data key="d1">5</data>
+  <data key="d2">https://openalex.org/W2028130263 | https://openalex.org/W2264889839 | https://openalex.org/W2886683709 | https://openalex.org/W3139536558 | https://openalex.org/W4391286721</data>
+</edge>
+<edge source="great recession" target="labor market">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2264889839 | https://openalex.org/W2886683709</data>
+</edge>
+<edge source="great recession" target="labor market polarization">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2950717371</data>
+</edge>
+<edge source="great recession" target="manual tasks">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2886683709</data>
+</edge>
+<edge source="great recession" target="occupational structure">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4391286721</data>
+</edge>
+<edge source="great recession" target="routine tasks">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2028130263 | https://openalex.org/W2886683709</data>
+</edge>
+<edge source="great recession" target="routine-biased technological change">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2894899500 | https://openalex.org/W4301915042</data>
+</edge>
+<edge source="great recession" target="skill requirements">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2894899500 | https://openalex.org/W4301915042</data>
+</edge>
+<edge source="great recession" target="skill-biased technological change">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2264889839 | https://openalex.org/W2894899500 | https://openalex.org/W4301915042</data>
+</edge>
+<edge source="great recession" target="spain">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2028130263 | https://openalex.org/W2888582947</data>
+</edge>
+<edge source="great recession" target="technological change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2886683709</data>
+</edge>
+<edge source="great recession" target="unemployment">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3139536558</data>
+</edge>
+<edge source="great recession" target="wage distribution">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2028130263</data>
+</edge>
+<edge source="great recession" target="wage polarization">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2888582947</data>
+</edge>
+<edge source="high-skilled jobs" target="information and communication technologies">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2594139736</data>
+</edge>
+<edge source="high-skilled jobs" target="job polarization">
+  <data key="d1">5</data>
+  <data key="d2">https://openalex.org/W2594139736 | https://openalex.org/W2933365559 | https://openalex.org/W3116995052 | https://openalex.org/W3183893887 | https://openalex.org/W4410505689</data>
+</edge>
+<edge source="high-skilled jobs" target="labor market polarization">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3123336231</data>
+</edge>
+<edge source="high-skilled jobs" target="labor market structure">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2594139736</data>
+</edge>
+<edge source="high-skilled jobs" target="low-skilled jobs">
+  <data key="d1">6</data>
+  <data key="d2">https://openalex.org/W2594139736 | https://openalex.org/W2933365559 | https://openalex.org/W3116995052 | https://openalex.org/W3123336231 | https://openalex.org/W3183893887 | https://openalex.org/W4410505689</data>
+</edge>
+<edge source="high-skilled jobs" target="middle-skill jobs">
+  <data key="d1">4</data>
+  <data key="d2">https://openalex.org/W2594139736 | https://openalex.org/W3116995052 | https://openalex.org/W3123336231 | https://openalex.org/W4410505689</data>
+</edge>
+<edge source="high-skilled jobs" target="occupational structure">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4410505689</data>
+</edge>
+<edge source="high-skilled jobs" target="offshoring">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3123336231</data>
+</edge>
+<edge source="high-skilled jobs" target="skill heterogeneity">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3123336231</data>
+</edge>
+<edge source="high-skilled jobs" target="skill-biased technological change">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W3123336231 | https://openalex.org/W3183893887 | https://openalex.org/W4410505689</data>
+</edge>
+<edge source="high-skilled jobs" target="technological change">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2594139736 | https://openalex.org/W4410505689</data>
+</edge>
+<edge source="high-skilled workers" target="job polarization">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W3140944539 | https://openalex.org/W4353081282 | https://openalex.org/W4390938525</data>
+</edge>
+<edge source="high-skilled workers" target="labor market polarization">
+  <data key="d1">4</data>
+  <data key="d2">https://openalex.org/W2097878363 | https://openalex.org/W2157496154 | https://openalex.org/W2998455712 | https://openalex.org/W3140944539</data>
+</edge>
+<edge source="high-skilled workers" target="low-skilled workers">
+  <data key="d1">4</data>
+  <data key="d2">https://openalex.org/W2097878363 | https://openalex.org/W2998455712 | https://openalex.org/W3140944539 | https://openalex.org/W4353081282</data>
+</edge>
+<edge source="high-skilled workers" target="middle-skilled workers">
+  <data key="d1">4</data>
+  <data key="d2">https://openalex.org/W2157496154 | https://openalex.org/W2998455712 | https://openalex.org/W4353081282 | https://openalex.org/W4390938525</data>
+</edge>
+<edge source="high-skilled workers" target="offshoring">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2157496154</data>
+</edge>
+<edge source="high-skilled workers" target="routine tasks">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2157496154</data>
+</edge>
+<edge source="high-skilled workers" target="skill composition">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2998455712 | https://openalex.org/W4353081282</data>
+</edge>
+<edge source="high-skilled workers" target="skill-biased technological change">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2097878363 | https://openalex.org/W3140944539</data>
+</edge>
+<edge source="high-skilled workers" target="wage inequality">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2097878363 | https://openalex.org/W2157496154</data>
+</edge>
+<edge source="high-skilled workers" target="wage polarization">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3140944539</data>
+</edge>
+<edge source="information and communication technologies" target="job polarization">
+  <data key="d1">4</data>
+  <data key="d2">https://openalex.org/W2594139736 | https://openalex.org/W2799459484 | https://openalex.org/W3117255732 | https://openalex.org/W4416674080</data>
+</edge>
+<edge source="information and communication technologies" target="labor market polarization">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W1982020224</data>
+</edge>
+<edge source="information and communication technologies" target="labor market structure">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2594139736</data>
+</edge>
+<edge source="information and communication technologies" target="low-skilled jobs">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2594139736</data>
+</edge>
+<edge source="information and communication technologies" target="low-wage employment">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4416674080</data>
+</edge>
+<edge source="information and communication technologies" target="middle-skill jobs">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2594139736</data>
+</edge>
+<edge source="information and communication technologies" target="routine tasks">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4416674080</data>
+</edge>
+<edge source="information and communication technologies" target="routine-biased technological change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4416674080</data>
+</edge>
+<edge source="information and communication technologies" target="skill polarization">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W1982020224 | https://openalex.org/W2799459484</data>
+</edge>
+<edge source="information and communication technologies" target="skill upgrading">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2799459484 | https://openalex.org/W4416674080</data>
+</edge>
+<edge source="information and communication technologies" target="skill-biased technological change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W1982020224</data>
+</edge>
+<edge source="information and communication technologies" target="technological change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2594139736</data>
+</edge>
+<edge source="information and communication technologies" target="united states labor market">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3117255732</data>
+</edge>
+<edge source="italy" target="job polarization">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4390878180</data>
+</edge>
+<edge source="italy" target="low-skilled jobs">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4390878180</data>
+</edge>
+<edge source="italy" target="low-skilled workers">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4410279410</data>
+</edge>
+<edge source="italy" target="routine-biased technological change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3122869911</data>
+</edge>
+<edge source="italy" target="spain">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2888582947</data>
+</edge>
+<edge source="italy" target="structural change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4390878180</data>
+</edge>
+<edge source="italy" target="wage distribution">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4410279410</data>
+</edge>
+<edge source="italy" target="wage inequality">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2115846199 | https://openalex.org/W3122869911</data>
+</edge>
+<edge source="italy" target="wage polarization">
+  <data key="d1">4</data>
+  <data key="d2">https://openalex.org/W2115846199 | https://openalex.org/W2888582947 | https://openalex.org/W3122869911 | https://openalex.org/W4410279410</data>
+</edge>
+<edge source="job polarization" target="job quality">
+  <data key="d1">7</data>
+  <data key="d2">https://openalex.org/W2077769925 | https://openalex.org/W2094615217 | https://openalex.org/W2317484266 | https://openalex.org/W2518126812 | https://openalex.org/W2582796621 | https://openalex.org/W2622247322 | https://openalex.org/W3136348801</data>
+</edge>
+<edge source="job polarization" target="labor demand">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2802907381 | https://openalex.org/W3040763789</data>
+</edge>
+<edge source="job polarization" target="labor market">
+  <data key="d1">11</data>
+  <data key="d2">https://openalex.org/W2264889839 | https://openalex.org/W2886683709 | https://openalex.org/W2893443746 | https://openalex.org/W2900547168 | https://openalex.org/W3082419529 | https://openalex.org/W3162732787 | https://openalex.org/W4383103219 | https://openalex.org/W4385499585 | https://openalex.org/W4386073658 | https://openalex.org/W4403798106 | https://openalex.org/W4417077105</data>
+</edge>
+<edge source="job polarization" target="labor market polarization">
+  <data key="d1">6</data>
+  <data key="d2">https://openalex.org/W2040848972 | https://openalex.org/W2765744331 | https://openalex.org/W3124401164 | https://openalex.org/W3140944539 | https://openalex.org/W3158026905 | https://openalex.org/W4391445748</data>
+</edge>
+<edge source="job polarization" target="labor market structure">
+  <data key="d1">5</data>
+  <data key="d2">https://openalex.org/W1980544129 | https://openalex.org/W2594139736 | https://openalex.org/W2802907381 | https://openalex.org/W4400351903 | https://openalex.org/W7217172604</data>
+</edge>
+<edge source="job polarization" target="labor reallocation">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2963286498 | https://openalex.org/W3124997991</data>
+</edge>
+<edge source="job polarization" target="labour market institutions">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2014846722 | https://openalex.org/W4409603050</data>
+</edge>
+<edge source="job polarization" target="labour market policy">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W3174480891 | https://openalex.org/W4400474307</data>
+</edge>
+<edge source="job polarization" target="low-skilled jobs">
+  <data key="d1">13</data>
+  <data key="d2">https://openalex.org/W2158550634 | https://openalex.org/W2594139736 | https://openalex.org/W2598446018 | https://openalex.org/W2606967191 | https://openalex.org/W2901549315 | https://openalex.org/W2933365559 | https://openalex.org/W2985589102 | https://openalex.org/W3089590098 | https://openalex.org/W3116995052 | https://openalex.org/W3183893887 | https://openalex.org/W4390878180 | https://openalex.org/W4402589585 | https://openalex.org/W4410505689</data>
+</edge>
+<edge source="job polarization" target="low-skilled workers">
+  <data key="d1">4</data>
+  <data key="d2">https://openalex.org/W2802907381 | https://openalex.org/W3140944539 | https://openalex.org/W4306951135 | https://openalex.org/W4353081282</data>
+</edge>
+<edge source="job polarization" target="low-wage employment">
+  <data key="d1">8</data>
+  <data key="d2">https://openalex.org/W1601261096 | https://openalex.org/W2002292547 | https://openalex.org/W2014846722 | https://openalex.org/W2213841331 | https://openalex.org/W2836580928 | https://openalex.org/W2951837919 | https://openalex.org/W4407870908 | https://openalex.org/W4416674080</data>
+</edge>
+<edge source="job polarization" target="manual tasks">
+  <data key="d1">4</data>
+  <data key="d2">https://openalex.org/W2213841331 | https://openalex.org/W2886683709 | https://openalex.org/W4391699154 | https://openalex.org/W4414267786</data>
+</edge>
+<edge source="job polarization" target="manufacturing industry">
+  <data key="d1">7</data>
+  <data key="d2">https://openalex.org/W2801676145 | https://openalex.org/W2836580928 | https://openalex.org/W2963286498 | https://openalex.org/W2985589102 | https://openalex.org/W3174480891 | https://openalex.org/W4391699154 | https://openalex.org/W4404626126</data>
+</edge>
+<edge source="job polarization" target="middle-skill jobs">
+  <data key="d1">5</data>
+  <data key="d2">https://openalex.org/W2094615217 | https://openalex.org/W2158550634 | https://openalex.org/W2594139736 | https://openalex.org/W3116995052 | https://openalex.org/W4410505689</data>
+</edge>
+<edge source="job polarization" target="middle-skilled workers">
+  <data key="d1">5</data>
+  <data key="d2">https://openalex.org/W4283362623 | https://openalex.org/W4306951135 | https://openalex.org/W4353081282 | https://openalex.org/W4385499585 | https://openalex.org/W4390938525</data>
+</edge>
+<edge source="job polarization" target="occupational polarization">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W3123412422 | https://openalex.org/W3207283844</data>
+</edge>
+<edge source="job polarization" target="occupational structure">
+  <data key="d1">10</data>
+  <data key="d2">https://openalex.org/W2122742794 | https://openalex.org/W2518126812 | https://openalex.org/W2528500156 | https://openalex.org/W2900547168 | https://openalex.org/W2963286498 | https://openalex.org/W3036557640 | https://openalex.org/W4383092794 | https://openalex.org/W4391286721 | https://openalex.org/W4410505689 | https://openalex.org/W4416956197</data>
+</edge>
+<edge source="job polarization" target="offshoring">
+  <data key="d1">9</data>
+  <data key="d2">https://openalex.org/W1980544129 | https://openalex.org/W2040848972 | https://openalex.org/W2144089836 | https://openalex.org/W2158550634 | https://openalex.org/W2731446286 | https://openalex.org/W3036557640 | https://openalex.org/W3123412422 | https://openalex.org/W3124997991 | https://openalex.org/W3158026905</data>
+</edge>
+<edge source="job polarization" target="routine occupations">
+  <data key="d1">4</data>
+  <data key="d2">https://openalex.org/W2195766474 | https://openalex.org/W2253112294 | https://openalex.org/W2903546586 | https://openalex.org/W4366123939</data>
+</edge>
+<edge source="job polarization" target="routine tasks">
+  <data key="d1">13</data>
+  <data key="d2">https://openalex.org/W2028130263 | https://openalex.org/W2122742794 | https://openalex.org/W2144089836 | https://openalex.org/W2213841331 | https://openalex.org/W2518126812 | https://openalex.org/W2731446286 | https://openalex.org/W2801924098 | https://openalex.org/W2836580928 | https://openalex.org/W2886683709 | https://openalex.org/W4383092794 | https://openalex.org/W4391699154 | https://openalex.org/W4414267786 | https://openalex.org/W4416674080</data>
+</edge>
+<edge source="job polarization" target="routine-biased technological change">
+  <data key="d1">4</data>
+  <data key="d2">https://openalex.org/W1980544129 | https://openalex.org/W2468653392 | https://openalex.org/W2810019547 | https://openalex.org/W4416674080</data>
+</edge>
+<edge source="job polarization" target="skill composition">
+  <data key="d1">4</data>
+  <data key="d2">https://openalex.org/W2122742794 | https://openalex.org/W2898523402 | https://openalex.org/W3125987961 | https://openalex.org/W4353081282</data>
+</edge>
+<edge source="job polarization" target="skill heterogeneity">
+  <data key="d1">4</data>
+  <data key="d2">https://openalex.org/W2802907381 | https://openalex.org/W3104715498 | https://openalex.org/W3174480891 | https://openalex.org/W4408072155</data>
+</edge>
+<edge source="job polarization" target="skill polarization">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2040848972 | https://openalex.org/W2799459484 | https://openalex.org/W2901549315</data>
+</edge>
+<edge source="job polarization" target="skill premium">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2598446018 | https://openalex.org/W4391445748</data>
+</edge>
+<edge source="job polarization" target="skill requirements">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4402589585</data>
+</edge>
+<edge source="job polarization" target="skill upgrading">
+  <data key="d1">7</data>
+  <data key="d2">https://openalex.org/W2533829491 | https://openalex.org/W2606967191 | https://openalex.org/W2799459484 | https://openalex.org/W2810019547 | https://openalex.org/W3123412422 | https://openalex.org/W4409603050 | https://openalex.org/W4416674080</data>
+</edge>
+<edge source="job polarization" target="skill-biased technological change">
+  <data key="d1">32</data>
+  <data key="d2">https://openalex.org/W1601261096 | https://openalex.org/W1980544129 | https://openalex.org/W2040848972 | https://openalex.org/W2094615217 | https://openalex.org/W2158550634 | https://openalex.org/W2195766474 | https://openalex.org/W2264889839 | https://openalex.org/W2338164662 | https://openalex.org/W2468653392 | https://openalex.org/W2518126812 | https://openalex.org/W2533829491 | https://openalex.org/W2606967191 | https://openalex.org/W2617712598 | https://openalex.org/W2767511076 | https://openalex.org/W2801676145 | https://openalex.org/W2801924098 | https://openalex.org/W2810019547 | https://openalex.org/W2883557462 | https://openalex.org/W2952951367 | https://openalex.org/W2985589102 | https://openalex.org/W3022902337 | https://openalex.org/W3082419529 | https://openalex.org/W3089590098 | https://openalex.org/W3123255208 | https://openalex.org/W3124401164 | https://openalex.org/W3140944539 | https://openalex.org/W3157583196 | https://openalex.org/W3162732787 | https://openalex.org/W3174480891 | https://openalex.org/W3183893887 | https://openalex.org/W4391445748 | https://openalex.org/W4410505689</data>
+</edge>
+<edge source="job polarization" target="skills mismatch">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2325270150 | https://openalex.org/W2775999193 | https://openalex.org/W2981633104</data>
+</edge>
+<edge source="job polarization" target="spain">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2028130263 | https://openalex.org/W2606967191 | https://openalex.org/W2767511076</data>
+</edge>
+<edge source="job polarization" target="structural change">
+  <data key="d1">8</data>
+  <data key="d2">https://openalex.org/W2094615217 | https://openalex.org/W2963286498 | https://openalex.org/W3174480891 | https://openalex.org/W4386073658 | https://openalex.org/W4390878180 | https://openalex.org/W4391445748 | https://openalex.org/W7117868757 | https://openalex.org/W989515610</data>
+</edge>
+<edge source="job polarization" target="technological change">
+  <data key="d1">27</data>
+  <data key="d2">https://openalex.org/W2014846722 | https://openalex.org/W2094615217 | https://openalex.org/W2213841331 | https://openalex.org/W2253112294 | https://openalex.org/W2476839729 | https://openalex.org/W2594139736 | https://openalex.org/W2731446286 | https://openalex.org/W2775999193 | https://openalex.org/W2789805245 | https://openalex.org/W2806644267 | https://openalex.org/W2836580928 | https://openalex.org/W2883557462 | https://openalex.org/W2886683709 | https://openalex.org/W2898523402 | https://openalex.org/W2901549315 | https://openalex.org/W3036557640 | https://openalex.org/W3125987961 | https://openalex.org/W3207283844 | https://openalex.org/W4283362623 | https://openalex.org/W4383092794 | https://openalex.org/W4385499585 | https://openalex.org/W4391699154 | https://openalex.org/W4400474307 | https://openalex.org/W4403798106 | https://openalex.org/W4410505689 | https://openalex.org/W4414267786 | https://openalex.org/W4417077105</data>
+</edge>
+<edge source="job polarization" target="technology adoption">
+  <data key="d1">5</data>
+  <data key="d2">https://openalex.org/W3033062257 | https://openalex.org/W3123255208 | https://openalex.org/W3124676230 | https://openalex.org/W4386073658 | https://openalex.org/W4402589585</data>
+</edge>
+<edge source="job polarization" target="unemployment">
+  <data key="d1">4</data>
+  <data key="d2">https://openalex.org/W1992796883 | https://openalex.org/W2883557462 | https://openalex.org/W3139536558 | https://openalex.org/W4392348990</data>
+</edge>
+<edge source="job polarization" target="united states labor market">
+  <data key="d1">6</data>
+  <data key="d2">https://openalex.org/W2014846722 | https://openalex.org/W2898523402 | https://openalex.org/W2963286498 | https://openalex.org/W3117255732 | https://openalex.org/W3124401164 | https://openalex.org/W3158026905</data>
+</edge>
+<edge source="job polarization" target="upskilling">
+  <data key="d1">4</data>
+  <data key="d2">https://openalex.org/W2122742794 | https://openalex.org/W2565421516 | https://openalex.org/W4385499585 | https://openalex.org/W4402589585</data>
+</edge>
+<edge source="job polarization" target="wage distribution">
+  <data key="d1">5</data>
+  <data key="d2">https://openalex.org/W2002292547 | https://openalex.org/W2028130263 | https://openalex.org/W2122742794 | https://openalex.org/W2801924098 | https://openalex.org/W4391445748</data>
+</edge>
+<edge source="job polarization" target="wage growth">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2963286498</data>
+</edge>
+<edge source="job polarization" target="wage inequality">
+  <data key="d1">18</data>
+  <data key="d2">https://openalex.org/W1601261096 | https://openalex.org/W2040848972 | https://openalex.org/W2122742794 | https://openalex.org/W2338164662 | https://openalex.org/W2476839729 | https://openalex.org/W2565421516 | https://openalex.org/W2952951367 | https://openalex.org/W2981633104 | https://openalex.org/W3033062257 | https://openalex.org/W3124676230 | https://openalex.org/W3162732787 | https://openalex.org/W3179087485 | https://openalex.org/W4283362623 | https://openalex.org/W4293221813 | https://openalex.org/W4366123939 | https://openalex.org/W4385499585 | https://openalex.org/W4400474307 | https://openalex.org/W989515610</data>
+</edge>
+<edge source="job polarization" target="wage polarization">
+  <data key="d1">6</data>
+  <data key="d2">https://openalex.org/W3124401164 | https://openalex.org/W3140944539 | https://openalex.org/W3158026905 | https://openalex.org/W4283362623 | https://openalex.org/W4414267786 | https://openalex.org/W7217172604</data>
+</edge>
+<edge source="job quality" target="labour market policy">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4388221045</data>
+</edge>
+<edge source="job quality" target="middle-skill jobs">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2094615217</data>
+</edge>
+<edge source="job quality" target="occupational structure">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2518126812</data>
+</edge>
+<edge source="job quality" target="routine tasks">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2518126812</data>
+</edge>
+<edge source="job quality" target="skill-biased technological change">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2094615217 | https://openalex.org/W2518126812</data>
+</edge>
+<edge source="job quality" target="structural change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2094615217</data>
+</edge>
+<edge source="job quality" target="technological change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2094615217</data>
+</edge>
+<edge source="labor demand" target="labor market structure">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2802907381</data>
+</edge>
+<edge source="labor demand" target="low-skilled workers">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2802907381</data>
+</edge>
+<edge source="labor demand" target="routine-biased technological change">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2903587259 | https://openalex.org/W4401643884</data>
+</edge>
+<edge source="labor demand" target="skill heterogeneity">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2802907381</data>
+</edge>
+<edge source="labor demand" target="skill upgrading">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4400138638</data>
+</edge>
+<edge source="labor demand" target="skill-biased technological change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4400138638</data>
+</edge>
+<edge source="labor demand" target="wage polarization">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2903587259</data>
+</edge>
+<edge source="labor market" target="manual tasks">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2886683709</data>
+</edge>
+<edge source="labor market" target="middle-skilled workers">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4385499585</data>
+</edge>
+<edge source="labor market" target="occupational structure">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2900547168</data>
+</edge>
+<edge source="labor market" target="routine tasks">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2886683709</data>
+</edge>
+<edge source="labor market" target="skill-biased technological change">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2264889839 | https://openalex.org/W3082419529 | https://openalex.org/W3162732787</data>
+</edge>
+<edge source="labor market" target="structural change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4386073658</data>
+</edge>
+<edge source="labor market" target="technological change">
+  <data key="d1">4</data>
+  <data key="d2">https://openalex.org/W2886683709 | https://openalex.org/W4385499585 | https://openalex.org/W4403798106 | https://openalex.org/W4417077105</data>
+</edge>
+<edge source="labor market" target="technology adoption">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4386073658</data>
+</edge>
+<edge source="labor market" target="upskilling">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4385499585</data>
+</edge>
+<edge source="labor market" target="wage inequality">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W3162732787 | https://openalex.org/W4385499585</data>
+</edge>
+<edge source="labor market polarization" target="labor market structure">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2803552200</data>
+</edge>
+<edge source="labor market polarization" target="labor reallocation">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2912760045</data>
+</edge>
+<edge source="labor market polarization" target="labour market institutions">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2912760045 | https://openalex.org/W3048133816 | https://openalex.org/W45024973</data>
+</edge>
+<edge source="labor market polarization" target="labour market policy">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2329765699 | https://openalex.org/W3043909686 | https://openalex.org/W3048133816</data>
+</edge>
+<edge source="labor market polarization" target="low-skilled jobs">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W3123336231 | https://openalex.org/W3147494282</data>
+</edge>
+<edge source="labor market polarization" target="low-skilled workers">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2097878363 | https://openalex.org/W2998455712 | https://openalex.org/W3140944539</data>
+</edge>
+<edge source="labor market polarization" target="low-wage employment">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3124544360</data>
+</edge>
+<edge source="labor market polarization" target="manual tasks">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2305891496</data>
+</edge>
+<edge source="labor market polarization" target="middle-skill jobs">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3123336231</data>
+</edge>
+<edge source="labor market polarization" target="middle-skilled workers">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2157496154 | https://openalex.org/W2998455712</data>
+</edge>
+<edge source="labor market polarization" target="occupational structure">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2988323971</data>
+</edge>
+<edge source="labor market polarization" target="offshoring">
+  <data key="d1">6</data>
+  <data key="d2">https://openalex.org/W2040848972 | https://openalex.org/W2157496154 | https://openalex.org/W2912760045 | https://openalex.org/W3123336231 | https://openalex.org/W3158026905 | https://openalex.org/W4200599862</data>
+</edge>
+<edge source="labor market polarization" target="routine occupations">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W3156157244 | https://openalex.org/W4403984775</data>
+</edge>
+<edge source="labor market polarization" target="routine tasks">
+  <data key="d1">4</data>
+  <data key="d2">https://openalex.org/W2157496154 | https://openalex.org/W2305891496 | https://openalex.org/W2807224071 | https://openalex.org/W3033909157</data>
+</edge>
+<edge source="labor market polarization" target="routine-biased technological change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2807224071</data>
+</edge>
+<edge source="labor market polarization" target="skill composition">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2217477576 | https://openalex.org/W2998455712</data>
+</edge>
+<edge source="labor market polarization" target="skill heterogeneity">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3123336231</data>
+</edge>
+<edge source="labor market polarization" target="skill polarization">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W1982020224 | https://openalex.org/W2040848972</data>
+</edge>
+<edge source="labor market polarization" target="skill premium">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W3520954 | https://openalex.org/W4391445748</data>
+</edge>
+<edge source="labor market polarization" target="skill requirements">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2305891496 | https://openalex.org/W4289794295</data>
+</edge>
+<edge source="labor market polarization" target="skill-biased technological change">
+  <data key="d1">13</data>
+  <data key="d2">https://openalex.org/W1982020224 | https://openalex.org/W1983703245 | https://openalex.org/W2040848972 | https://openalex.org/W2084542493 | https://openalex.org/W2097878363 | https://openalex.org/W2592750997 | https://openalex.org/W2988830362 | https://openalex.org/W3048133816 | https://openalex.org/W3123336231 | https://openalex.org/W3124401164 | https://openalex.org/W3140944539 | https://openalex.org/W3520954 | https://openalex.org/W4391445748</data>
+</edge>
+<edge source="labor market polarization" target="skills mismatch">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2796653460 | https://openalex.org/W2988323971</data>
+</edge>
+<edge source="labor market polarization" target="structural change">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W3025021589 | https://openalex.org/W4391445748</data>
+</edge>
+<edge source="labor market polarization" target="technological change">
+  <data key="d1">6</data>
+  <data key="d2">https://openalex.org/W2274726381 | https://openalex.org/W2282957970 | https://openalex.org/W2305891496 | https://openalex.org/W2912760045 | https://openalex.org/W2988323971 | https://openalex.org/W4394677177</data>
+</edge>
+<edge source="labor market polarization" target="unemployment">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2807224071 | https://openalex.org/W3156157244</data>
+</edge>
+<edge source="labor market polarization" target="united states labor market">
+  <data key="d1">4</data>
+  <data key="d2">https://openalex.org/W2983296220 | https://openalex.org/W3124401164 | https://openalex.org/W3124544360 | https://openalex.org/W3158026905</data>
+</edge>
+<edge source="labor market polarization" target="upskilling">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3147494282</data>
+</edge>
+<edge source="labor market polarization" target="wage distribution">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W3124544360 | https://openalex.org/W4391445748</data>
+</edge>
+<edge source="labor market polarization" target="wage inequality">
+  <data key="d1">10</data>
+  <data key="d2">https://openalex.org/W1983703245 | https://openalex.org/W2040848972 | https://openalex.org/W2097878363 | https://openalex.org/W2157496154 | https://openalex.org/W2282957970 | https://openalex.org/W2592750997 | https://openalex.org/W3048133816 | https://openalex.org/W3124544360 | https://openalex.org/W3135469300 | https://openalex.org/W3520954</data>
+</edge>
+<edge source="labor market polarization" target="wage polarization">
+  <data key="d1">6</data>
+  <data key="d2">https://openalex.org/W2282957970 | https://openalex.org/W3033909157 | https://openalex.org/W3124401164 | https://openalex.org/W3140944539 | https://openalex.org/W3158026905 | https://openalex.org/W4281993758</data>
+</edge>
+<edge source="labor market structure" target="low-skilled jobs">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2594139736</data>
+</edge>
+<edge source="labor market structure" target="low-skilled workers">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2802907381</data>
+</edge>
+<edge source="labor market structure" target="middle-skill jobs">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2594139736</data>
+</edge>
+<edge source="labor market structure" target="offshoring">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W1980544129</data>
+</edge>
+<edge source="labor market structure" target="routine-biased technological change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W1980544129</data>
+</edge>
+<edge source="labor market structure" target="skill heterogeneity">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2802907381</data>
+</edge>
+<edge source="labor market structure" target="skill-biased technological change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W1980544129</data>
+</edge>
+<edge source="labor market structure" target="technological change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2594139736</data>
+</edge>
+<edge source="labor market structure" target="wage polarization">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W7217172604</data>
+</edge>
+<edge source="labor reallocation" target="labour market institutions">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2912760045</data>
+</edge>
+<edge source="labor reallocation" target="manufacturing industry">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2963286498</data>
+</edge>
+<edge source="labor reallocation" target="occupational structure">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2963286498</data>
+</edge>
+<edge source="labor reallocation" target="offshoring">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2912760045 | https://openalex.org/W3124997991</data>
+</edge>
+<edge source="labor reallocation" target="routine occupations">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2584472969</data>
+</edge>
+<edge source="labor reallocation" target="skill heterogeneity">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2584472969 | https://openalex.org/W3123772990</data>
+</edge>
+<edge source="labor reallocation" target="structural change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2963286498</data>
+</edge>
+<edge source="labor reallocation" target="technological change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2912760045</data>
+</edge>
+<edge source="labor reallocation" target="united states labor market">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2963286498</data>
+</edge>
+<edge source="labor reallocation" target="wage growth">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2584472969 | https://openalex.org/W2963286498 | https://openalex.org/W3123772990</data>
+</edge>
+<edge source="labour market institutions" target="labour market policy">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3048133816</data>
+</edge>
+<edge source="labour market institutions" target="low-wage employment">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2014846722</data>
+</edge>
+<edge source="labour market institutions" target="offshoring">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2912760045</data>
+</edge>
+<edge source="labour market institutions" target="skill upgrading">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4409603050</data>
+</edge>
+<edge source="labour market institutions" target="skill-biased technological change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3048133816</data>
+</edge>
+<edge source="labour market institutions" target="technological change">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2014846722 | https://openalex.org/W2912760045</data>
+</edge>
+<edge source="labour market institutions" target="united states labor market">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2014846722</data>
+</edge>
+<edge source="labour market institutions" target="wage inequality">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3048133816</data>
+</edge>
+<edge source="labour market policy" target="manufacturing industry">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3174480891</data>
+</edge>
+<edge source="labour market policy" target="occupational structure">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2093194610</data>
+</edge>
+<edge source="labour market policy" target="skill heterogeneity">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3174480891</data>
+</edge>
+<edge source="labour market policy" target="skill polarization">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2093194610</data>
+</edge>
+<edge source="labour market policy" target="skill-biased technological change">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W3048133816 | https://openalex.org/W3174480891</data>
+</edge>
+<edge source="labour market policy" target="structural change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3174480891</data>
+</edge>
+<edge source="labour market policy" target="technological change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4400474307</data>
+</edge>
+<edge source="labour market policy" target="wage inequality">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W3048133816 | https://openalex.org/W4400474307</data>
+</edge>
+<edge source="labour market policy" target="wage polarization">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2093194610</data>
+</edge>
+<edge source="low-skilled jobs" target="manufacturing industry">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2985589102</data>
+</edge>
+<edge source="low-skilled jobs" target="middle-skill jobs">
+  <data key="d1">6</data>
+  <data key="d2">https://openalex.org/W2158550634 | https://openalex.org/W2594139736 | https://openalex.org/W3116995052 | https://openalex.org/W3123336231 | https://openalex.org/W4410505689 | https://openalex.org/W4413751012</data>
+</edge>
+<edge source="low-skilled jobs" target="occupational structure">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W4410505689 | https://openalex.org/W7215972942</data>
+</edge>
+<edge source="low-skilled jobs" target="offshoring">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2158550634 | https://openalex.org/W3123336231</data>
+</edge>
+<edge source="low-skilled jobs" target="skill heterogeneity">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3123336231</data>
+</edge>
+<edge source="low-skilled jobs" target="skill polarization">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2901549315</data>
+</edge>
+<edge source="low-skilled jobs" target="skill premium">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2598446018</data>
+</edge>
+<edge source="low-skilled jobs" target="skill requirements">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4402589585</data>
+</edge>
+<edge source="low-skilled jobs" target="skill upgrading">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2606967191</data>
+</edge>
+<edge source="low-skilled jobs" target="skill-biased technological change">
+  <data key="d1">8</data>
+  <data key="d2">https://openalex.org/W2158550634 | https://openalex.org/W2606967191 | https://openalex.org/W2985589102 | https://openalex.org/W3089590098 | https://openalex.org/W3123336231 | https://openalex.org/W3183893887 | https://openalex.org/W4382796983 | https://openalex.org/W4410505689</data>
+</edge>
+<edge source="low-skilled jobs" target="skills mismatch">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W7215972942</data>
+</edge>
+<edge source="low-skilled jobs" target="spain">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2606967191</data>
+</edge>
+<edge source="low-skilled jobs" target="structural change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4390878180</data>
+</edge>
+<edge source="low-skilled jobs" target="technological change">
+  <data key="d1">4</data>
+  <data key="d2">https://openalex.org/W2594139736 | https://openalex.org/W2901549315 | https://openalex.org/W4410505689 | https://openalex.org/W4413751012</data>
+</edge>
+<edge source="low-skilled jobs" target="technology adoption">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4402589585</data>
+</edge>
+<edge source="low-skilled jobs" target="upskilling">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W3147494282 | https://openalex.org/W4402589585</data>
+</edge>
+<edge source="low-skilled jobs" target="wage inequality">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4382796983</data>
+</edge>
+<edge source="low-skilled jobs" target="wage polarization">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W7215972942</data>
+</edge>
+<edge source="low-skilled workers" target="middle-skilled workers">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2998455712 | https://openalex.org/W4306951135 | https://openalex.org/W4353081282</data>
+</edge>
+<edge source="low-skilled workers" target="skill composition">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2998455712 | https://openalex.org/W4353081282</data>
+</edge>
+<edge source="low-skilled workers" target="skill heterogeneity">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2802907381</data>
+</edge>
+<edge source="low-skilled workers" target="skill-biased technological change">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2097878363 | https://openalex.org/W3140944539</data>
+</edge>
+<edge source="low-skilled workers" target="wage distribution">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4410279410</data>
+</edge>
+<edge source="low-skilled workers" target="wage inequality">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2097878363</data>
+</edge>
+<edge source="low-skilled workers" target="wage polarization">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W3140944539 | https://openalex.org/W4410279410</data>
+</edge>
+<edge source="low-wage employment" target="manual tasks">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2213841331</data>
+</edge>
+<edge source="low-wage employment" target="manufacturing industry">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2836580928</data>
+</edge>
+<edge source="low-wage employment" target="routine tasks">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2213841331 | https://openalex.org/W2836580928 | https://openalex.org/W4416674080</data>
+</edge>
+<edge source="low-wage employment" target="routine-biased technological change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4416674080</data>
+</edge>
+<edge source="low-wage employment" target="skill upgrading">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4416674080</data>
+</edge>
+<edge source="low-wage employment" target="skill-biased technological change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W1601261096</data>
+</edge>
+<edge source="low-wage employment" target="technological change">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2014846722 | https://openalex.org/W2213841331 | https://openalex.org/W2836580928</data>
+</edge>
+<edge source="low-wage employment" target="united states labor market">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2014846722 | https://openalex.org/W3124544360</data>
+</edge>
+<edge source="low-wage employment" target="wage distribution">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2002292547 | https://openalex.org/W3124544360</data>
+</edge>
+<edge source="low-wage employment" target="wage inequality">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W1601261096 | https://openalex.org/W3124544360</data>
+</edge>
+<edge source="manual tasks" target="manufacturing industry">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4391699154</data>
+</edge>
+<edge source="manual tasks" target="routine tasks">
+  <data key="d1">5</data>
+  <data key="d2">https://openalex.org/W2213841331 | https://openalex.org/W2305891496 | https://openalex.org/W2886683709 | https://openalex.org/W4391699154 | https://openalex.org/W4414267786</data>
+</edge>
+<edge source="manual tasks" target="skill requirements">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2305891496</data>
+</edge>
+<edge source="manual tasks" target="technological change">
+  <data key="d1">5</data>
+  <data key="d2">https://openalex.org/W2213841331 | https://openalex.org/W2305891496 | https://openalex.org/W2886683709 | https://openalex.org/W4391699154 | https://openalex.org/W4414267786</data>
+</edge>
+<edge source="manual tasks" target="wage polarization">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4414267786</data>
+</edge>
+<edge source="manufacturing industry" target="occupational structure">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2963286498</data>
+</edge>
+<edge source="manufacturing industry" target="routine tasks">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2836580928 | https://openalex.org/W4391699154</data>
+</edge>
+<edge source="manufacturing industry" target="skill heterogeneity">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3174480891</data>
+</edge>
+<edge source="manufacturing industry" target="skill-biased technological change">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2801676145 | https://openalex.org/W2985589102 | https://openalex.org/W3174480891</data>
+</edge>
+<edge source="manufacturing industry" target="structural change">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2963286498 | https://openalex.org/W3174480891</data>
+</edge>
+<edge source="manufacturing industry" target="technological change">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2836580928 | https://openalex.org/W4391699154</data>
+</edge>
+<edge source="manufacturing industry" target="united states labor market">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2963286498</data>
+</edge>
+<edge source="manufacturing industry" target="wage growth">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2963286498</data>
+</edge>
+<edge source="middle-skill jobs" target="occupational structure">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W4400930769 | https://openalex.org/W4410505689</data>
+</edge>
+<edge source="middle-skill jobs" target="offshoring">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2158550634 | https://openalex.org/W3123336231</data>
+</edge>
+<edge source="middle-skill jobs" target="skill heterogeneity">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3123336231</data>
+</edge>
+<edge source="middle-skill jobs" target="skill premium">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4400930769</data>
+</edge>
+<edge source="middle-skill jobs" target="skill-biased technological change">
+  <data key="d1">4</data>
+  <data key="d2">https://openalex.org/W2094615217 | https://openalex.org/W2158550634 | https://openalex.org/W3123336231 | https://openalex.org/W4410505689</data>
+</edge>
+<edge source="middle-skill jobs" target="structural change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2094615217</data>
+</edge>
+<edge source="middle-skill jobs" target="technological change">
+  <data key="d1">4</data>
+  <data key="d2">https://openalex.org/W2094615217 | https://openalex.org/W2594139736 | https://openalex.org/W4410505689 | https://openalex.org/W4413751012</data>
+</edge>
+<edge source="middle-skilled workers" target="offshoring">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2157496154</data>
+</edge>
+<edge source="middle-skilled workers" target="routine tasks">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2157496154</data>
+</edge>
+<edge source="middle-skilled workers" target="skill composition">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2998455712 | https://openalex.org/W4353081282</data>
+</edge>
+<edge source="middle-skilled workers" target="technological change">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W4283362623 | https://openalex.org/W4385499585</data>
+</edge>
+<edge source="middle-skilled workers" target="upskilling">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4385499585</data>
+</edge>
+<edge source="middle-skilled workers" target="wage inequality">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2157496154 | https://openalex.org/W4283362623 | https://openalex.org/W4385499585</data>
+</edge>
+<edge source="middle-skilled workers" target="wage polarization">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4283362623</data>
+</edge>
+<edge source="occupational polarization" target="occupational structure">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4387301934</data>
+</edge>
+<edge source="occupational polarization" target="offshoring">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3123412422</data>
+</edge>
+<edge source="occupational polarization" target="routine occupations">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4387301934</data>
+</edge>
+<edge source="occupational polarization" target="skill upgrading">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3123412422</data>
+</edge>
+<edge source="occupational polarization" target="skill-biased technological change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2569625930</data>
+</edge>
+<edge source="occupational polarization" target="spain">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2569625930</data>
+</edge>
+<edge source="occupational polarization" target="technological change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3207283844</data>
+</edge>
+<edge source="occupational polarization" target="wage inequality">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4387301934</data>
+</edge>
+<edge source="occupational structure" target="offshoring">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3036557640</data>
+</edge>
+<edge source="occupational structure" target="routine occupations">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4387301934</data>
+</edge>
+<edge source="occupational structure" target="routine tasks">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2122742794 | https://openalex.org/W2518126812 | https://openalex.org/W4383092794</data>
+</edge>
+<edge source="occupational structure" target="skill composition">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2122742794</data>
+</edge>
+<edge source="occupational structure" target="skill polarization">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2093194610</data>
+</edge>
+<edge source="occupational structure" target="skill premium">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4400930769</data>
+</edge>
+<edge source="occupational structure" target="skill-biased technological change">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2518126812 | https://openalex.org/W4410505689</data>
+</edge>
+<edge source="occupational structure" target="skills mismatch">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2988323971 | https://openalex.org/W7215972942</data>
+</edge>
+<edge source="occupational structure" target="structural change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2963286498</data>
+</edge>
+<edge source="occupational structure" target="technological change">
+  <data key="d1">4</data>
+  <data key="d2">https://openalex.org/W2988323971 | https://openalex.org/W3036557640 | https://openalex.org/W4383092794 | https://openalex.org/W4410505689</data>
+</edge>
+<edge source="occupational structure" target="united states labor market">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2963286498</data>
+</edge>
+<edge source="occupational structure" target="upskilling">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2122742794</data>
+</edge>
+<edge source="occupational structure" target="wage distribution">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2122742794</data>
+</edge>
+<edge source="occupational structure" target="wage growth">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2963286498</data>
+</edge>
+<edge source="occupational structure" target="wage inequality">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2122742794 | https://openalex.org/W4387301934</data>
+</edge>
+<edge source="occupational structure" target="wage polarization">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2093194610 | https://openalex.org/W7215972942</data>
+</edge>
+<edge source="offshoring" target="routine tasks">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2144089836 | https://openalex.org/W2157496154 | https://openalex.org/W2731446286</data>
+</edge>
+<edge source="offshoring" target="routine-biased technological change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W1980544129</data>
+</edge>
+<edge source="offshoring" target="skill heterogeneity">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3123336231</data>
+</edge>
+<edge source="offshoring" target="skill polarization">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2040848972</data>
+</edge>
+<edge source="offshoring" target="skill upgrading">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3123412422</data>
+</edge>
+<edge source="offshoring" target="skill-biased technological change">
+  <data key="d1">4</data>
+  <data key="d2">https://openalex.org/W1980544129 | https://openalex.org/W2040848972 | https://openalex.org/W2158550634 | https://openalex.org/W3123336231</data>
+</edge>
+<edge source="offshoring" target="technological change">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2731446286 | https://openalex.org/W2912760045 | https://openalex.org/W3036557640</data>
+</edge>
+<edge source="offshoring" target="united states labor market">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3158026905</data>
+</edge>
+<edge source="offshoring" target="wage inequality">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2040848972 | https://openalex.org/W2157496154</data>
+</edge>
+<edge source="offshoring" target="wage polarization">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3158026905</data>
+</edge>
+<edge source="routine occupations" target="routine-biased technological change">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W3163827939 | https://openalex.org/W3184238417</data>
+</edge>
+<edge source="routine occupations" target="skill heterogeneity">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2584472969</data>
+</edge>
+<edge source="routine occupations" target="skill-biased technological change">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2195766474 | https://openalex.org/W3184238417</data>
+</edge>
+<edge source="routine occupations" target="technological change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2253112294</data>
+</edge>
+<edge source="routine occupations" target="unemployment">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3156157244</data>
+</edge>
+<edge source="routine occupations" target="wage growth">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2584472969</data>
+</edge>
+<edge source="routine occupations" target="wage inequality">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W4366123939 | https://openalex.org/W4387301934</data>
+</edge>
+<edge source="routine tasks" target="routine-biased technological change">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2807224071 | https://openalex.org/W4416674080</data>
+</edge>
+<edge source="routine tasks" target="skill composition">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2122742794</data>
+</edge>
+<edge source="routine tasks" target="skill requirements">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2305891496</data>
+</edge>
+<edge source="routine tasks" target="skill upgrading">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4416674080</data>
+</edge>
+<edge source="routine tasks" target="skill-biased technological change">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2518126812 | https://openalex.org/W2801924098</data>
+</edge>
+<edge source="routine tasks" target="spain">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2028130263</data>
+</edge>
+<edge source="routine tasks" target="technological change">
+  <data key="d1">8</data>
+  <data key="d2">https://openalex.org/W2213841331 | https://openalex.org/W2305891496 | https://openalex.org/W2731446286 | https://openalex.org/W2836580928 | https://openalex.org/W2886683709 | https://openalex.org/W4383092794 | https://openalex.org/W4391699154 | https://openalex.org/W4414267786</data>
+</edge>
+<edge source="routine tasks" target="unemployment">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2807224071</data>
+</edge>
+<edge source="routine tasks" target="upskilling">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2122742794</data>
+</edge>
+<edge source="routine tasks" target="wage distribution">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2028130263 | https://openalex.org/W2122742794 | https://openalex.org/W2801924098</data>
+</edge>
+<edge source="routine tasks" target="wage inequality">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2122742794 | https://openalex.org/W2157496154</data>
+</edge>
+<edge source="routine tasks" target="wage polarization">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W3033909157 | https://openalex.org/W4414267786</data>
+</edge>
+<edge source="routine-biased technological change" target="skill premium">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4412752810</data>
+</edge>
+<edge source="routine-biased technological change" target="skill requirements">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2894899500 | https://openalex.org/W4301915042</data>
+</edge>
+<edge source="routine-biased technological change" target="skill upgrading">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2810019547 | https://openalex.org/W4416674080</data>
+</edge>
+<edge source="routine-biased technological change" target="skill-biased technological change">
+  <data key="d1">7</data>
+  <data key="d2">https://openalex.org/W1980544129 | https://openalex.org/W2468653392 | https://openalex.org/W2810019547 | https://openalex.org/W2894899500 | https://openalex.org/W3184238417 | https://openalex.org/W4301915042 | https://openalex.org/W7117554030</data>
+</edge>
+<edge source="routine-biased technological change" target="technological change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2902310957</data>
+</edge>
+<edge source="routine-biased technological change" target="unemployment">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2807224071</data>
+</edge>
+<edge source="routine-biased technological change" target="wage growth">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2902310957</data>
+</edge>
+<edge source="routine-biased technological change" target="wage inequality">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3122869911</data>
+</edge>
+<edge source="routine-biased technological change" target="wage polarization">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2903587259 | https://openalex.org/W3122869911</data>
+</edge>
+<edge source="skill composition" target="technological change">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2898523402 | https://openalex.org/W3125987961</data>
+</edge>
+<edge source="skill composition" target="united states labor market">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2898523402</data>
+</edge>
+<edge source="skill composition" target="upskilling">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2122742794</data>
+</edge>
+<edge source="skill composition" target="wage distribution">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2122742794</data>
+</edge>
+<edge source="skill composition" target="wage inequality">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2122742794</data>
+</edge>
+<edge source="skill heterogeneity" target="skill-biased technological change">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W3123336231 | https://openalex.org/W3174480891</data>
+</edge>
+<edge source="skill heterogeneity" target="structural change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3174480891</data>
+</edge>
+<edge source="skill heterogeneity" target="wage growth">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2584472969 | https://openalex.org/W3123772990</data>
+</edge>
+<edge source="skill polarization" target="skill upgrading">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2799459484</data>
+</edge>
+<edge source="skill polarization" target="skill-biased technological change">
+  <data key="d1">4</data>
+  <data key="d2">https://openalex.org/W1536512579 | https://openalex.org/W1982020224 | https://openalex.org/W2040848972 | https://openalex.org/W3123889009</data>
+</edge>
+<edge source="skill polarization" target="technological change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2901549315</data>
+</edge>
+<edge source="skill polarization" target="wage growth">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3123889009</data>
+</edge>
+<edge source="skill polarization" target="wage inequality">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2040848972</data>
+</edge>
+<edge source="skill polarization" target="wage polarization">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2093194610 | https://openalex.org/W4307631559</data>
+</edge>
+<edge source="skill premium" target="skill-biased technological change">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W3520954 | https://openalex.org/W4389342453 | https://openalex.org/W4391445748</data>
+</edge>
+<edge source="skill premium" target="structural change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4391445748</data>
+</edge>
+<edge source="skill premium" target="wage distribution">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4391445748</data>
+</edge>
+<edge source="skill premium" target="wage inequality">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W3520954 | https://openalex.org/W4389342453</data>
+</edge>
+<edge source="skill premium" target="wage polarization">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4389342453</data>
+</edge>
+<edge source="skill requirements" target="skill-biased technological change">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2894899500 | https://openalex.org/W4301915042</data>
+</edge>
+<edge source="skill requirements" target="technological change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2305891496</data>
+</edge>
+<edge source="skill requirements" target="technology adoption">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4402589585</data>
+</edge>
+<edge source="skill requirements" target="upskilling">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4402589585</data>
+</edge>
+<edge source="skill upgrading" target="skill-biased technological change">
+  <data key="d1">4</data>
+  <data key="d2">https://openalex.org/W2533829491 | https://openalex.org/W2606967191 | https://openalex.org/W2810019547 | https://openalex.org/W4400138638</data>
+</edge>
+<edge source="skill upgrading" target="spain">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2606967191</data>
+</edge>
+<edge source="skill-biased technological change" target="spain">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2569625930 | https://openalex.org/W2606967191 | https://openalex.org/W2767511076</data>
+</edge>
+<edge source="skill-biased technological change" target="structural change">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2094615217 | https://openalex.org/W3174480891 | https://openalex.org/W4391445748</data>
+</edge>
+<edge source="skill-biased technological change" target="technological change">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2094615217 | https://openalex.org/W2883557462 | https://openalex.org/W4410505689</data>
+</edge>
+<edge source="skill-biased technological change" target="technology adoption">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3123255208</data>
+</edge>
+<edge source="skill-biased technological change" target="unemployment">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2883557462</data>
+</edge>
+<edge source="skill-biased technological change" target="united states labor market">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3124401164</data>
+</edge>
+<edge source="skill-biased technological change" target="wage distribution">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2801924098 | https://openalex.org/W4391445748</data>
+</edge>
+<edge source="skill-biased technological change" target="wage growth">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3123889009</data>
+</edge>
+<edge source="skill-biased technological change" target="wage inequality">
+  <data key="d1">12</data>
+  <data key="d2">https://openalex.org/W1601261096 | https://openalex.org/W1983703245 | https://openalex.org/W2040848972 | https://openalex.org/W2097878363 | https://openalex.org/W2338164662 | https://openalex.org/W2592750997 | https://openalex.org/W2952951367 | https://openalex.org/W3048133816 | https://openalex.org/W3162732787 | https://openalex.org/W3520954 | https://openalex.org/W4382796983 | https://openalex.org/W4389342453</data>
+</edge>
+<edge source="skill-biased technological change" target="wage polarization">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W3124401164 | https://openalex.org/W3140944539 | https://openalex.org/W4389342453</data>
+</edge>
+<edge source="skills mismatch" target="technological change">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2775999193 | https://openalex.org/W2988323971</data>
+</edge>
+<edge source="skills mismatch" target="wage inequality">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2981633104</data>
+</edge>
+<edge source="skills mismatch" target="wage polarization">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W7215972942</data>
+</edge>
+<edge source="spain" target="wage distribution">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2028130263</data>
+</edge>
+<edge source="spain" target="wage polarization">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2888582947</data>
+</edge>
+<edge source="structural change" target="technological change">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2094615217</data>
+</edge>
+<edge source="structural change" target="technology adoption">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4386073658</data>
+</edge>
+<edge source="structural change" target="united states labor market">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2963286498</data>
+</edge>
+<edge source="structural change" target="wage distribution">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4391445748</data>
+</edge>
+<edge source="structural change" target="wage growth">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2963286498</data>
+</edge>
+<edge source="structural change" target="wage inequality">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W989515610</data>
+</edge>
+<edge source="technological change" target="unemployment">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2883557462</data>
+</edge>
+<edge source="technological change" target="united states labor market">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2014846722 | https://openalex.org/W2898523402</data>
+</edge>
+<edge source="technological change" target="upskilling">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4385499585</data>
+</edge>
+<edge source="technological change" target="wage growth">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2902310957</data>
+</edge>
+<edge source="technological change" target="wage inequality">
+  <data key="d1">5</data>
+  <data key="d2">https://openalex.org/W2282957970 | https://openalex.org/W2476839729 | https://openalex.org/W4283362623 | https://openalex.org/W4385499585 | https://openalex.org/W4400474307</data>
+</edge>
+<edge source="technological change" target="wage polarization">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2282957970 | https://openalex.org/W4283362623 | https://openalex.org/W4414267786</data>
+</edge>
+<edge source="technology adoption" target="upskilling">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W4402589585</data>
+</edge>
+<edge source="technology adoption" target="wage inequality">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W3033062257 | https://openalex.org/W3124676230</data>
+</edge>
+<edge source="unemployment" target="wage inequality">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2081044796</data>
+</edge>
+<edge source="unemployment" target="wage polarization">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2081044796</data>
+</edge>
+<edge source="united states labor market" target="wage distribution">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3124544360</data>
+</edge>
+<edge source="united states labor market" target="wage growth">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2963286498</data>
+</edge>
+<edge source="united states labor market" target="wage inequality">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W3124544360</data>
+</edge>
+<edge source="united states labor market" target="wage polarization">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2233688439 | https://openalex.org/W3124401164 | https://openalex.org/W3158026905</data>
+</edge>
+<edge source="upskilling" target="wage distribution">
+  <data key="d1">1</data>
+  <data key="d2">https://openalex.org/W2122742794</data>
+</edge>
+<edge source="upskilling" target="wage inequality">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2122742794 | https://openalex.org/W2565421516 | https://openalex.org/W4385499585</data>
+</edge>
+<edge source="wage distribution" target="wage inequality">
+  <data key="d1">3</data>
+  <data key="d2">https://openalex.org/W2122742794 | https://openalex.org/W2935286369 | https://openalex.org/W3124544360</data>
+</edge>
+<edge source="wage distribution" target="wage polarization">
+  <data key="d1">2</data>
+  <data key="d2">https://openalex.org/W2935286369 | https://openalex.org/W4410279410</data>
+</edge>
+<edge source="wage inequality" target="wage polarization">
+  <data key="d1">7</data>
+  <data key="d2">https://openalex.org/W2081044796 | https://openalex.org/W2115846199 | https://openalex.org/W2282957970 | https://openalex.org/W2935286369 | https://openalex.org/W3122869911 | https://openalex.org/W4283362623 | https://openalex.org/W4389342453</data>
+</edge>
+</graph></graphml>

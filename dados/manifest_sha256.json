@@ -1,0 +1,12 @@
+{
+  "dados/insumos_triagem/amostra_120_estratificada.csv": "cfdd26f77dc723bd89a045ee48d2a3ac08f3d6e30b980b6a21eef297825fade7",
+  "dados/originais_openalex/01_base_unificada.csv": "6d7d626e8a09c2ba3edc34758ba3fe194329462d2bb0eacb7c47c776d0727608",
+  "dados/originais_openalex/02_auditoria_buscas.csv": "415b5eb9d3f10ccc0c15dbe92ab9d3ecb43f17656ee30a41c8c4e5eed69a4e64",
+  "dados/originais_openalex/03_sobreposicao_buscas.csv": "81cab50857178f781a7757190deb0cc020cdcfacd94a3c471b3314983a7c2df4",
+  "dados/originais_openalex/04_producao_anual.csv": "d600dec6c9b9286b8017fbf20c51a0b5b5976391ae9ea51deb06f2ce7c17ed85",
+  "dados/originais_openalex/05_frequencia_keywords.csv": "7c005088c904aed2ce3e09e5c6ab3977417bc13e473732a3da3a51d9c26f956f",
+  "dados/originais_openalex/06_amostra_para_validar.csv": "39a6f411c71b838027a0d03c77d7d3567b4b137dfec9294c895a905c4c2674b5",
+  "dados/originais_openalex/07_openalex_uniao_vosviewer.json": "ed346ef2534d1c93bceb25ba3a970a219168079841e9782c10f8800c371dfd03",
+  "dados/originais_vosviewer/polarizacao_mapa_01.csv": "46698288710b8cf49e0966c4bba5860f3cfffe50d2ecd91d5a9363c2e1faf8c4",
+  "dados/originais_vosviewer/polarizacao_rede_01.csv": "999fc69da1d4bf6a1859d2cd350e8d2e6870f400b70066004bd2950ae4aab240"
+}

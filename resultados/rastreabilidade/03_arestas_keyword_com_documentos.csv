@@ -1,0 +1,546 @@
+﻿keyword_1;keyword_2;peso_coocorrencia;artigos_openalex_ids
+abstract tasks;automation;1;https://openalex.org/W2886683709
+abstract tasks;great recession;1;https://openalex.org/W2886683709
+abstract tasks;information and communication technologies;1;https://openalex.org/W4416674080
+abstract tasks;job polarization;4;https://openalex.org/W2789805245 | https://openalex.org/W2886683709 | https://openalex.org/W4391699154 | https://openalex.org/W4416674080
+abstract tasks;labor market;1;https://openalex.org/W2886683709
+abstract tasks;low-wage employment;1;https://openalex.org/W4416674080
+abstract tasks;manual tasks;2;https://openalex.org/W2886683709 | https://openalex.org/W4391699154
+abstract tasks;manufacturing industry;1;https://openalex.org/W4391699154
+abstract tasks;routine tasks;4;https://openalex.org/W2749277952 | https://openalex.org/W2886683709 | https://openalex.org/W4391699154 | https://openalex.org/W4416674080
+abstract tasks;routine-biased technological change;1;https://openalex.org/W4416674080
+abstract tasks;skill upgrading;1;https://openalex.org/W4416674080
+abstract tasks;technological change;3;https://openalex.org/W2789805245 | https://openalex.org/W2886683709 | https://openalex.org/W4391699154
+automation;computerization;1;https://openalex.org/W3163827939
+automation;germany;2;https://openalex.org/W3033909157 | https://openalex.org/W3156157244
+automation;great recession;1;https://openalex.org/W2886683709
+automation;high-skilled jobs;1;https://openalex.org/W2594139736
+automation;information and communication technologies;2;https://openalex.org/W2594139736 | https://openalex.org/W3117255732
+automation;job polarization;11;https://openalex.org/W2144089836 | https://openalex.org/W2528500156 | https://openalex.org/W2594139736 | https://openalex.org/W2886683709 | https://openalex.org/W2930567992 | https://openalex.org/W2985589102 | https://openalex.org/W3022902337 | https://openalex.org/W3117255732 | https://openalex.org/W3174480891 | https://openalex.org/W3179087485 | https://openalex.org/W4408072155
+automation;labor market;1;https://openalex.org/W2886683709
+automation;labor market polarization;4;https://openalex.org/W3033909157 | https://openalex.org/W3156157244 | https://openalex.org/W4200599862 | https://openalex.org/W4289794295
+automation;labor market structure;1;https://openalex.org/W2594139736
+automation;labor reallocation;2;https://openalex.org/W2584472969 | https://openalex.org/W3123772990
+automation;labour market policy;1;https://openalex.org/W3174480891
+automation;low-skilled jobs;2;https://openalex.org/W2594139736 | https://openalex.org/W2985589102
+automation;manual tasks;1;https://openalex.org/W2886683709
+automation;manufacturing industry;2;https://openalex.org/W2985589102 | https://openalex.org/W3174480891
+automation;middle-skill jobs;1;https://openalex.org/W2594139736
+automation;occupational structure;1;https://openalex.org/W2528500156
+automation;offshoring;2;https://openalex.org/W2144089836 | https://openalex.org/W4200599862
+automation;routine occupations;3;https://openalex.org/W2584472969 | https://openalex.org/W3156157244 | https://openalex.org/W3163827939
+automation;routine tasks;3;https://openalex.org/W2144089836 | https://openalex.org/W2886683709 | https://openalex.org/W3033909157
+automation;routine-biased technological change;3;https://openalex.org/W3025498084 | https://openalex.org/W3163827939 | https://openalex.org/W4412752810
+automation;skill heterogeneity;4;https://openalex.org/W2584472969 | https://openalex.org/W3123772990 | https://openalex.org/W3174480891 | https://openalex.org/W4408072155
+automation;skill premium;1;https://openalex.org/W4412752810
+automation;skill requirements;1;https://openalex.org/W4289794295
+automation;skill-biased technological change;3;https://openalex.org/W2985589102 | https://openalex.org/W3022902337 | https://openalex.org/W3174480891
+automation;structural change;1;https://openalex.org/W3174480891
+automation;technological change;2;https://openalex.org/W2594139736 | https://openalex.org/W2886683709
+automation;unemployment;1;https://openalex.org/W3156157244
+automation;united states labor market;1;https://openalex.org/W3117255732
+automation;wage growth;2;https://openalex.org/W2584472969 | https://openalex.org/W3123772990
+automation;wage inequality;1;https://openalex.org/W3179087485
+automation;wage polarization;1;https://openalex.org/W3033909157
+business cycles;france;1;https://openalex.org/W4392348990
+business cycles;high-skilled workers;1;https://openalex.org/W2097878363
+business cycles;job polarization;3;https://openalex.org/W2617712598 | https://openalex.org/W4392348990 | https://openalex.org/W7217172604
+business cycles;labor demand;1;https://openalex.org/W4401643884
+business cycles;labor market polarization;2;https://openalex.org/W2097878363 | https://openalex.org/W2983296220
+business cycles;labor market structure;1;https://openalex.org/W7217172604
+business cycles;low-skilled workers;1;https://openalex.org/W2097878363
+business cycles;routine-biased technological change;1;https://openalex.org/W4401643884
+business cycles;skill-biased technological change;2;https://openalex.org/W2097878363 | https://openalex.org/W2617712598
+business cycles;unemployment;1;https://openalex.org/W4392348990
+business cycles;united states labor market;1;https://openalex.org/W2983296220
+business cycles;wage inequality;1;https://openalex.org/W2097878363
+business cycles;wage polarization;1;https://openalex.org/W7217172604
+china;employment structure;1;https://openalex.org/W4382796983
+china;high-skilled workers;1;https://openalex.org/W4353081282
+china;job polarization;5;https://openalex.org/W2213841331 | https://openalex.org/W2893443746 | https://openalex.org/W4353081282 | https://openalex.org/W4404673181 | https://openalex.org/W4416956197
+china;labor market;1;https://openalex.org/W2893443746
+china;low-skilled jobs;1;https://openalex.org/W4382796983
+china;low-skilled workers;1;https://openalex.org/W4353081282
+china;low-wage employment;1;https://openalex.org/W2213841331
+china;manual tasks;1;https://openalex.org/W2213841331
+china;middle-skilled workers;1;https://openalex.org/W4353081282
+china;occupational structure;1;https://openalex.org/W4416956197
+china;routine tasks;1;https://openalex.org/W2213841331
+china;routine-biased technological change;1;https://openalex.org/W7117554030
+china;skill composition;1;https://openalex.org/W4353081282
+china;skill-biased technological change;2;https://openalex.org/W4382796983 | https://openalex.org/W7117554030
+china;technological change;1;https://openalex.org/W2213841331
+china;wage inequality;1;https://openalex.org/W4382796983
+computerization;globalization;1;https://openalex.org/W3158026905
+computerization;job polarization;4;https://openalex.org/W2801924098 | https://openalex.org/W3082419529 | https://openalex.org/W3136348801 | https://openalex.org/W3158026905
+computerization;job quality;1;https://openalex.org/W3136348801
+computerization;labor market;1;https://openalex.org/W3082419529
+computerization;labor market polarization;2;https://openalex.org/W3124544360 | https://openalex.org/W3158026905
+computerization;low-wage employment;1;https://openalex.org/W3124544360
+computerization;offshoring;1;https://openalex.org/W3158026905
+computerization;routine occupations;1;https://openalex.org/W3163827939
+computerization;routine tasks;1;https://openalex.org/W2801924098
+computerization;routine-biased technological change;1;https://openalex.org/W3163827939
+computerization;skill-biased technological change;2;https://openalex.org/W2801924098 | https://openalex.org/W3082419529
+computerization;united states labor market;2;https://openalex.org/W3124544360 | https://openalex.org/W3158026905
+computerization;wage distribution;2;https://openalex.org/W2801924098 | https://openalex.org/W3124544360
+computerization;wage inequality;1;https://openalex.org/W3124544360
+computerization;wage polarization;1;https://openalex.org/W3158026905
+employment structure;european labour market;2;https://openalex.org/W2094615217 | https://openalex.org/W2158550634
+employment structure;globalization;1;https://openalex.org/W2158550634
+employment structure;high-skilled jobs;1;https://openalex.org/W3183893887
+employment structure;high-skilled workers;1;https://openalex.org/W2998455712
+employment structure;job polarization;6;https://openalex.org/W2094615217 | https://openalex.org/W2117580767 | https://openalex.org/W2158550634 | https://openalex.org/W2533829491 | https://openalex.org/W3183893887 | https://openalex.org/W4402589585
+employment structure;job quality;1;https://openalex.org/W2094615217
+employment structure;labor demand;1;https://openalex.org/W2903587259
+employment structure;labor market polarization;3;https://openalex.org/W2282957970 | https://openalex.org/W2998455712 | https://openalex.org/W4281993758
+employment structure;low-skilled jobs;4;https://openalex.org/W2158550634 | https://openalex.org/W3183893887 | https://openalex.org/W4382796983 | https://openalex.org/W4402589585
+employment structure;low-skilled workers;1;https://openalex.org/W2998455712
+employment structure;middle-skill jobs;2;https://openalex.org/W2094615217 | https://openalex.org/W2158550634
+employment structure;middle-skilled workers;1;https://openalex.org/W2998455712
+employment structure;offshoring;1;https://openalex.org/W2158550634
+employment structure;routine-biased technological change;1;https://openalex.org/W2903587259
+employment structure;skill composition;1;https://openalex.org/W2998455712
+employment structure;skill requirements;1;https://openalex.org/W4402589585
+employment structure;skill upgrading;1;https://openalex.org/W2533829491
+employment structure;skill-biased technological change;5;https://openalex.org/W2094615217 | https://openalex.org/W2158550634 | https://openalex.org/W2533829491 | https://openalex.org/W3183893887 | https://openalex.org/W4382796983
+employment structure;structural change;1;https://openalex.org/W2094615217
+employment structure;technological change;2;https://openalex.org/W2094615217 | https://openalex.org/W2282957970
+employment structure;technology adoption;1;https://openalex.org/W4402589585
+employment structure;upskilling;1;https://openalex.org/W4402589585
+employment structure;wage inequality;2;https://openalex.org/W2282957970 | https://openalex.org/W4382796983
+employment structure;wage polarization;3;https://openalex.org/W2282957970 | https://openalex.org/W2903587259 | https://openalex.org/W4281993758
+european labour market;globalization;1;https://openalex.org/W2158550634
+european labour market;high-skilled jobs;1;https://openalex.org/W2933365559
+european labour market;job polarization;5;https://openalex.org/W2094615217 | https://openalex.org/W2158550634 | https://openalex.org/W2325270150 | https://openalex.org/W2836580928 | https://openalex.org/W2933365559
+european labour market;job quality;1;https://openalex.org/W2094615217
+european labour market;labor market polarization;1;https://openalex.org/W2912760045
+european labour market;labor reallocation;1;https://openalex.org/W2912760045
+european labour market;labour market institutions;1;https://openalex.org/W2912760045
+european labour market;low-skilled jobs;2;https://openalex.org/W2158550634 | https://openalex.org/W2933365559
+european labour market;low-wage employment;1;https://openalex.org/W2836580928
+european labour market;manufacturing industry;1;https://openalex.org/W2836580928
+european labour market;middle-skill jobs;2;https://openalex.org/W2094615217 | https://openalex.org/W2158550634
+european labour market;offshoring;2;https://openalex.org/W2158550634 | https://openalex.org/W2912760045
+european labour market;routine tasks;1;https://openalex.org/W2836580928
+european labour market;skill-biased technological change;2;https://openalex.org/W2094615217 | https://openalex.org/W2158550634
+european labour market;skills mismatch;1;https://openalex.org/W2325270150
+european labour market;structural change;1;https://openalex.org/W2094615217
+european labour market;technological change;3;https://openalex.org/W2094615217 | https://openalex.org/W2836580928 | https://openalex.org/W2912760045
+france;job polarization;5;https://openalex.org/W2476839729 | https://openalex.org/W2901549315 | https://openalex.org/W3033062257 | https://openalex.org/W3157583196 | https://openalex.org/W4392348990
+france;low-skilled jobs;1;https://openalex.org/W2901549315
+france;occupational polarization;1;https://openalex.org/W1587125906
+france;skill polarization;1;https://openalex.org/W2901549315
+france;skill-biased technological change;1;https://openalex.org/W3157583196
+france;technological change;2;https://openalex.org/W2476839729 | https://openalex.org/W2901549315
+france;technology adoption;1;https://openalex.org/W3033062257
+france;unemployment;1;https://openalex.org/W4392348990
+france;wage inequality;2;https://openalex.org/W2476839729 | https://openalex.org/W3033062257
+germany;job polarization;3;https://openalex.org/W2606967191 | https://openalex.org/W3040763789 | https://openalex.org/W3124997991
+germany;labor demand;1;https://openalex.org/W3040763789
+germany;labor market polarization;2;https://openalex.org/W3033909157 | https://openalex.org/W3156157244
+germany;labor reallocation;1;https://openalex.org/W3124997991
+germany;low-skilled jobs;1;https://openalex.org/W2606967191
+germany;occupational polarization;1;https://openalex.org/W2569625930
+germany;offshoring;1;https://openalex.org/W3124997991
+germany;routine occupations;1;https://openalex.org/W3156157244
+germany;routine tasks;1;https://openalex.org/W3033909157
+germany;skill upgrading;1;https://openalex.org/W2606967191
+germany;skill-biased technological change;2;https://openalex.org/W2569625930 | https://openalex.org/W2606967191
+germany;spain;2;https://openalex.org/W2569625930 | https://openalex.org/W2606967191
+germany;unemployment;1;https://openalex.org/W3156157244
+germany;wage polarization;1;https://openalex.org/W3033909157
+globalization;job polarization;7;https://openalex.org/W2040848972 | https://openalex.org/W2158550634 | https://openalex.org/W3123412422 | https://openalex.org/W3158026905 | https://openalex.org/W3207283844 | https://openalex.org/W4283362623 | https://openalex.org/W4400474307
+globalization;labor market polarization;2;https://openalex.org/W2040848972 | https://openalex.org/W3158026905
+globalization;labour market policy;1;https://openalex.org/W4400474307
+globalization;low-skilled jobs;2;https://openalex.org/W2158550634 | https://openalex.org/W4413751012
+globalization;middle-skill jobs;2;https://openalex.org/W2158550634 | https://openalex.org/W4413751012
+globalization;middle-skilled workers;1;https://openalex.org/W4283362623
+globalization;occupational polarization;2;https://openalex.org/W3123412422 | https://openalex.org/W3207283844
+globalization;offshoring;4;https://openalex.org/W2040848972 | https://openalex.org/W2158550634 | https://openalex.org/W3123412422 | https://openalex.org/W3158026905
+globalization;routine-biased technological change;1;https://openalex.org/W2902310957
+globalization;skill polarization;1;https://openalex.org/W2040848972
+globalization;skill upgrading;1;https://openalex.org/W3123412422
+globalization;skill-biased technological change;2;https://openalex.org/W2040848972 | https://openalex.org/W2158550634
+globalization;technological change;6;https://openalex.org/W2797328649 | https://openalex.org/W2902310957 | https://openalex.org/W3207283844 | https://openalex.org/W4283362623 | https://openalex.org/W4400474307 | https://openalex.org/W4413751012
+globalization;united states labor market;2;https://openalex.org/W2233688439 | https://openalex.org/W3158026905
+globalization;wage growth;1;https://openalex.org/W2902310957
+globalization;wage inequality;3;https://openalex.org/W2040848972 | https://openalex.org/W4283362623 | https://openalex.org/W4400474307
+globalization;wage polarization;3;https://openalex.org/W2233688439 | https://openalex.org/W3158026905 | https://openalex.org/W4283362623
+great recession;italy;1;https://openalex.org/W2888582947
+great recession;job polarization;5;https://openalex.org/W2028130263 | https://openalex.org/W2264889839 | https://openalex.org/W2886683709 | https://openalex.org/W3139536558 | https://openalex.org/W4391286721
+great recession;labor market;2;https://openalex.org/W2264889839 | https://openalex.org/W2886683709
+great recession;labor market polarization;1;https://openalex.org/W2950717371
+great recession;manual tasks;1;https://openalex.org/W2886683709
+great recession;occupational structure;1;https://openalex.org/W4391286721
+great recession;routine tasks;2;https://openalex.org/W2028130263 | https://openalex.org/W2886683709
+great recession;routine-biased technological change;2;https://openalex.org/W2894899500 | https://openalex.org/W4301915042
+great recession;skill requirements;2;https://openalex.org/W2894899500 | https://openalex.org/W4301915042
+great recession;skill-biased technological change;3;https://openalex.org/W2264889839 | https://openalex.org/W2894899500 | https://openalex.org/W4301915042
+great recession;spain;2;https://openalex.org/W2028130263 | https://openalex.org/W2888582947
+great recession;technological change;1;https://openalex.org/W2886683709
+great recession;unemployment;1;https://openalex.org/W3139536558
+great recession;wage distribution;1;https://openalex.org/W2028130263
+great recession;wage polarization;1;https://openalex.org/W2888582947
+high-skilled jobs;information and communication technologies;1;https://openalex.org/W2594139736
+high-skilled jobs;job polarization;5;https://openalex.org/W2594139736 | https://openalex.org/W2933365559 | https://openalex.org/W3116995052 | https://openalex.org/W3183893887 | https://openalex.org/W4410505689
+high-skilled jobs;labor market polarization;1;https://openalex.org/W3123336231
+high-skilled jobs;labor market structure;1;https://openalex.org/W2594139736
+high-skilled jobs;low-skilled jobs;6;https://openalex.org/W2594139736 | https://openalex.org/W2933365559 | https://openalex.org/W3116995052 | https://openalex.org/W3123336231 | https://openalex.org/W3183893887 | https://openalex.org/W4410505689
+high-skilled jobs;middle-skill jobs;4;https://openalex.org/W2594139736 | https://openalex.org/W3116995052 | https://openalex.org/W3123336231 | https://openalex.org/W4410505689
+high-skilled jobs;occupational structure;1;https://openalex.org/W4410505689
+high-skilled jobs;offshoring;1;https://openalex.org/W3123336231
+high-skilled jobs;skill heterogeneity;1;https://openalex.org/W3123336231
+high-skilled jobs;skill-biased technological change;3;https://openalex.org/W3123336231 | https://openalex.org/W3183893887 | https://openalex.org/W4410505689
+high-skilled jobs;technological change;2;https://openalex.org/W2594139736 | https://openalex.org/W4410505689
+high-skilled workers;job polarization;3;https://openalex.org/W3140944539 | https://openalex.org/W4353081282 | https://openalex.org/W4390938525
+high-skilled workers;labor market polarization;4;https://openalex.org/W2097878363 | https://openalex.org/W2157496154 | https://openalex.org/W2998455712 | https://openalex.org/W3140944539
+high-skilled workers;low-skilled workers;4;https://openalex.org/W2097878363 | https://openalex.org/W2998455712 | https://openalex.org/W3140944539 | https://openalex.org/W4353081282
+high-skilled workers;middle-skilled workers;4;https://openalex.org/W2157496154 | https://openalex.org/W2998455712 | https://openalex.org/W4353081282 | https://openalex.org/W4390938525
+high-skilled workers;offshoring;1;https://openalex.org/W2157496154
+high-skilled workers;routine tasks;1;https://openalex.org/W2157496154
+high-skilled workers;skill composition;2;https://openalex.org/W2998455712 | https://openalex.org/W4353081282
+high-skilled workers;skill-biased technological change;2;https://openalex.org/W2097878363 | https://openalex.org/W3140944539
+high-skilled workers;wage inequality;2;https://openalex.org/W2097878363 | https://openalex.org/W2157496154
+high-skilled workers;wage polarization;1;https://openalex.org/W3140944539
+information and communication technologies;job polarization;4;https://openalex.org/W2594139736 | https://openalex.org/W2799459484 | https://openalex.org/W3117255732 | https://openalex.org/W4416674080
+information and communication technologies;labor market polarization;1;https://openalex.org/W1982020224
+information and communication technologies;labor market structure;1;https://openalex.org/W2594139736
+information and communication technologies;low-skilled jobs;1;https://openalex.org/W2594139736
+information and communication technologies;low-wage employment;1;https://openalex.org/W4416674080
+information and communication technologies;middle-skill jobs;1;https://openalex.org/W2594139736
+information and communication technologies;routine tasks;1;https://openalex.org/W4416674080
+information and communication technologies;routine-biased technological change;1;https://openalex.org/W4416674080
+information and communication technologies;skill polarization;2;https://openalex.org/W1982020224 | https://openalex.org/W2799459484
+information and communication technologies;skill upgrading;2;https://openalex.org/W2799459484 | https://openalex.org/W4416674080
+information and communication technologies;skill-biased technological change;1;https://openalex.org/W1982020224
+information and communication technologies;technological change;1;https://openalex.org/W2594139736
+information and communication technologies;united states labor market;1;https://openalex.org/W3117255732
+italy;job polarization;1;https://openalex.org/W4390878180
+italy;low-skilled jobs;1;https://openalex.org/W4390878180
+italy;low-skilled workers;1;https://openalex.org/W4410279410
+italy;routine-biased technological change;1;https://openalex.org/W3122869911
+italy;spain;1;https://openalex.org/W2888582947
+italy;structural change;1;https://openalex.org/W4390878180
+italy;wage distribution;1;https://openalex.org/W4410279410
+italy;wage inequality;2;https://openalex.org/W2115846199 | https://openalex.org/W3122869911
+italy;wage polarization;4;https://openalex.org/W2115846199 | https://openalex.org/W2888582947 | https://openalex.org/W3122869911 | https://openalex.org/W4410279410
+job polarization;job quality;7;https://openalex.org/W2077769925 | https://openalex.org/W2094615217 | https://openalex.org/W2317484266 | https://openalex.org/W2518126812 | https://openalex.org/W2582796621 | https://openalex.org/W2622247322 | https://openalex.org/W3136348801
+job polarization;labor demand;2;https://openalex.org/W2802907381 | https://openalex.org/W3040763789
+job polarization;labor market;11;https://openalex.org/W2264889839 | https://openalex.org/W2886683709 | https://openalex.org/W2893443746 | https://openalex.org/W2900547168 | https://openalex.org/W3082419529 | https://openalex.org/W3162732787 | https://openalex.org/W4383103219 | https://openalex.org/W4385499585 | https://openalex.org/W4386073658 | https://openalex.org/W4403798106 | https://openalex.org/W4417077105
+job polarization;labor market polarization;6;https://openalex.org/W2040848972 | https://openalex.org/W2765744331 | https://openalex.org/W3124401164 | https://openalex.org/W3140944539 | https://openalex.org/W3158026905 | https://openalex.org/W4391445748
+job polarization;labor market structure;5;https://openalex.org/W1980544129 | https://openalex.org/W2594139736 | https://openalex.org/W2802907381 | https://openalex.org/W4400351903 | https://openalex.org/W7217172604
+job polarization;labor reallocation;2;https://openalex.org/W2963286498 | https://openalex.org/W3124997991
+job polarization;labour market institutions;2;https://openalex.org/W2014846722 | https://openalex.org/W4409603050
+job polarization;labour market policy;2;https://openalex.org/W3174480891 | https://openalex.org/W4400474307
+job polarization;low-skilled jobs;13;https://openalex.org/W2158550634 | https://openalex.org/W2594139736 | https://openalex.org/W2598446018 | https://openalex.org/W2606967191 | https://openalex.org/W2901549315 | https://openalex.org/W2933365559 | https://openalex.org/W2985589102 | https://openalex.org/W3089590098 | https://openalex.org/W3116995052 | https://openalex.org/W3183893887 | https://openalex.org/W4390878180 | https://openalex.org/W4402589585 | https://openalex.org/W4410505689
+job polarization;low-skilled workers;4;https://openalex.org/W2802907381 | https://openalex.org/W3140944539 | https://openalex.org/W4306951135 | https://openalex.org/W4353081282
+job polarization;low-wage employment;8;https://openalex.org/W1601261096 | https://openalex.org/W2002292547 | https://openalex.org/W2014846722 | https://openalex.org/W2213841331 | https://openalex.org/W2836580928 | https://openalex.org/W2951837919 | https://openalex.org/W4407870908 | https://openalex.org/W4416674080
+job polarization;manual tasks;4;https://openalex.org/W2213841331 | https://openalex.org/W2886683709 | https://openalex.org/W4391699154 | https://openalex.org/W4414267786
+job polarization;manufacturing industry;7;https://openalex.org/W2801676145 | https://openalex.org/W2836580928 | https://openalex.org/W2963286498 | https://openalex.org/W2985589102 | https://openalex.org/W3174480891 | https://openalex.org/W4391699154 | https://openalex.org/W4404626126
+job polarization;middle-skill jobs;5;https://openalex.org/W2094615217 | https://openalex.org/W2158550634 | https://openalex.org/W2594139736 | https://openalex.org/W3116995052 | https://openalex.org/W4410505689
+job polarization;middle-skilled workers;5;https://openalex.org/W4283362623 | https://openalex.org/W4306951135 | https://openalex.org/W4353081282 | https://openalex.org/W4385499585 | https://openalex.org/W4390938525
+job polarization;occupational polarization;2;https://openalex.org/W3123412422 | https://openalex.org/W3207283844
+job polarization;occupational structure;10;https://openalex.org/W2122742794 | https://openalex.org/W2518126812 | https://openalex.org/W2528500156 | https://openalex.org/W2900547168 | https://openalex.org/W2963286498 | https://openalex.org/W3036557640 | https://openalex.org/W4383092794 | https://openalex.org/W4391286721 | https://openalex.org/W4410505689 | https://openalex.org/W4416956197
+job polarization;offshoring;9;https://openalex.org/W1980544129 | https://openalex.org/W2040848972 | https://openalex.org/W2144089836 | https://openalex.org/W2158550634 | https://openalex.org/W2731446286 | https://openalex.org/W3036557640 | https://openalex.org/W3123412422 | https://openalex.org/W3124997991 | https://openalex.org/W3158026905
+job polarization;routine occupations;4;https://openalex.org/W2195766474 | https://openalex.org/W2253112294 | https://openalex.org/W2903546586 | https://openalex.org/W4366123939
+job polarization;routine tasks;13;https://openalex.org/W2028130263 | https://openalex.org/W2122742794 | https://openalex.org/W2144089836 | https://openalex.org/W2213841331 | https://openalex.org/W2518126812 | https://openalex.org/W2731446286 | https://openalex.org/W2801924098 | https://openalex.org/W2836580928 | https://openalex.org/W2886683709 | https://openalex.org/W4383092794 | https://openalex.org/W4391699154 | https://openalex.org/W4414267786 | https://openalex.org/W4416674080
+job polarization;routine-biased technological change;4;https://openalex.org/W1980544129 | https://openalex.org/W2468653392 | https://openalex.org/W2810019547 | https://openalex.org/W4416674080
+job polarization;skill composition;4;https://openalex.org/W2122742794 | https://openalex.org/W2898523402 | https://openalex.org/W3125987961 | https://openalex.org/W4353081282
+job polarization;skill heterogeneity;4;https://openalex.org/W2802907381 | https://openalex.org/W3104715498 | https://openalex.org/W3174480891 | https://openalex.org/W4408072155
+job polarization;skill polarization;3;https://openalex.org/W2040848972 | https://openalex.org/W2799459484 | https://openalex.org/W2901549315
+job polarization;skill premium;2;https://openalex.org/W2598446018 | https://openalex.org/W4391445748
+job polarization;skill requirements;1;https://openalex.org/W4402589585
+job polarization;skill upgrading;7;https://openalex.org/W2533829491 | https://openalex.org/W2606967191 | https://openalex.org/W2799459484 | https://openalex.org/W2810019547 | https://openalex.org/W3123412422 | https://openalex.org/W4409603050 | https://openalex.org/W4416674080
+job polarization;skill-biased technological change;32;https://openalex.org/W1601261096 | https://openalex.org/W1980544129 | https://openalex.org/W2040848972 | https://openalex.org/W2094615217 | https://openalex.org/W2158550634 | https://openalex.org/W2195766474 | https://openalex.org/W2264889839 | https://openalex.org/W2338164662 | https://openalex.org/W2468653392 | https://openalex.org/W2518126812 | https://openalex.org/W2533829491 | https://openalex.org/W2606967191 | https://openalex.org/W2617712598 | https://openalex.org/W2767511076 | https://openalex.org/W2801676145 | https://openalex.org/W2801924098 | https://openalex.org/W2810019547 | https://openalex.org/W2883557462 | https://openalex.org/W2952951367 | https://openalex.org/W2985589102 | https://openalex.org/W3022902337 | https://openalex.org/W3082419529 | https://openalex.org/W3089590098 | https://openalex.org/W3123255208 | https://openalex.org/W3124401164 | https://openalex.org/W3140944539 | https://openalex.org/W3157583196 | https://openalex.org/W3162732787 | https://openalex.org/W3174480891 | https://openalex.org/W3183893887 | https://openalex.org/W4391445748 | https://openalex.org/W4410505689
+job polarization;skills mismatch;3;https://openalex.org/W2325270150 | https://openalex.org/W2775999193 | https://openalex.org/W2981633104
+job polarization;spain;3;https://openalex.org/W2028130263 | https://openalex.org/W2606967191 | https://openalex.org/W2767511076
+job polarization;structural change;8;https://openalex.org/W2094615217 | https://openalex.org/W2963286498 | https://openalex.org/W3174480891 | https://openalex.org/W4386073658 | https://openalex.org/W4390878180 | https://openalex.org/W4391445748 | https://openalex.org/W7117868757 | https://openalex.org/W989515610
+job polarization;technological change;27;https://openalex.org/W2014846722 | https://openalex.org/W2094615217 | https://openalex.org/W2213841331 | https://openalex.org/W2253112294 | https://openalex.org/W2476839729 | https://openalex.org/W2594139736 | https://openalex.org/W2731446286 | https://openalex.org/W2775999193 | https://openalex.org/W2789805245 | https://openalex.org/W2806644267 | https://openalex.org/W2836580928 | https://openalex.org/W2883557462 | https://openalex.org/W2886683709 | https://openalex.org/W2898523402 | https://openalex.org/W2901549315 | https://openalex.org/W3036557640 | https://openalex.org/W3125987961 | https://openalex.org/W3207283844 | https://openalex.org/W4283362623 | https://openalex.org/W4383092794 | https://openalex.org/W4385499585 | https://openalex.org/W4391699154 | https://openalex.org/W4400474307 | https://openalex.org/W4403798106 | https://openalex.org/W4410505689 | https://openalex.org/W4414267786 | https://openalex.org/W4417077105
+job polarization;technology adoption;5;https://openalex.org/W3033062257 | https://openalex.org/W3123255208 | https://openalex.org/W3124676230 | https://openalex.org/W4386073658 | https://openalex.org/W4402589585
+job polarization;unemployment;4;https://openalex.org/W1992796883 | https://openalex.org/W2883557462 | https://openalex.org/W3139536558 | https://openalex.org/W4392348990
+job polarization;united states labor market;6;https://openalex.org/W2014846722 | https://openalex.org/W2898523402 | https://openalex.org/W2963286498 | https://openalex.org/W3117255732 | https://openalex.org/W3124401164 | https://openalex.org/W3158026905
+job polarization;upskilling;4;https://openalex.org/W2122742794 | https://openalex.org/W2565421516 | https://openalex.org/W4385499585 | https://openalex.org/W4402589585
+job polarization;wage distribution;5;https://openalex.org/W2002292547 | https://openalex.org/W2028130263 | https://openalex.org/W2122742794 | https://openalex.org/W2801924098 | https://openalex.org/W4391445748
+job polarization;wage growth;1;https://openalex.org/W2963286498
+job polarization;wage inequality;18;https://openalex.org/W1601261096 | https://openalex.org/W2040848972 | https://openalex.org/W2122742794 | https://openalex.org/W2338164662 | https://openalex.org/W2476839729 | https://openalex.org/W2565421516 | https://openalex.org/W2952951367 | https://openalex.org/W2981633104 | https://openalex.org/W3033062257 | https://openalex.org/W3124676230 | https://openalex.org/W3162732787 | https://openalex.org/W3179087485 | https://openalex.org/W4283362623 | https://openalex.org/W4293221813 | https://openalex.org/W4366123939 | https://openalex.org/W4385499585 | https://openalex.org/W4400474307 | https://openalex.org/W989515610
+job polarization;wage polarization;6;https://openalex.org/W3124401164 | https://openalex.org/W3140944539 | https://openalex.org/W3158026905 | https://openalex.org/W4283362623 | https://openalex.org/W4414267786 | https://openalex.org/W7217172604
+job quality;labour market policy;1;https://openalex.org/W4388221045
+job quality;middle-skill jobs;1;https://openalex.org/W2094615217
+job quality;occupational structure;1;https://openalex.org/W2518126812
+job quality;routine tasks;1;https://openalex.org/W2518126812
+job quality;skill-biased technological change;2;https://openalex.org/W2094615217 | https://openalex.org/W2518126812
+job quality;structural change;1;https://openalex.org/W2094615217
+job quality;technological change;1;https://openalex.org/W2094615217
+labor demand;labor market structure;1;https://openalex.org/W2802907381
+labor demand;low-skilled workers;1;https://openalex.org/W2802907381
+labor demand;routine-biased technological change;2;https://openalex.org/W2903587259 | https://openalex.org/W4401643884
+labor demand;skill heterogeneity;1;https://openalex.org/W2802907381
+labor demand;skill upgrading;1;https://openalex.org/W4400138638
+labor demand;skill-biased technological change;1;https://openalex.org/W4400138638
+labor demand;wage polarization;1;https://openalex.org/W2903587259
+labor market;manual tasks;1;https://openalex.org/W2886683709
+labor market;middle-skilled workers;1;https://openalex.org/W4385499585
+labor market;occupational structure;1;https://openalex.org/W2900547168
+labor market;routine tasks;1;https://openalex.org/W2886683709
+labor market;skill-biased technological change;3;https://openalex.org/W2264889839 | https://openalex.org/W3082419529 | https://openalex.org/W3162732787
+labor market;structural change;1;https://openalex.org/W4386073658
+labor market;technological change;4;https://openalex.org/W2886683709 | https://openalex.org/W4385499585 | https://openalex.org/W4403798106 | https://openalex.org/W4417077105
+labor market;technology adoption;1;https://openalex.org/W4386073658
+labor market;upskilling;1;https://openalex.org/W4385499585
+labor market;wage inequality;2;https://openalex.org/W3162732787 | https://openalex.org/W4385499585
+labor market polarization;labor market structure;1;https://openalex.org/W2803552200
+labor market polarization;labor reallocation;1;https://openalex.org/W2912760045
+labor market polarization;labour market institutions;3;https://openalex.org/W2912760045 | https://openalex.org/W3048133816 | https://openalex.org/W45024973
+labor market polarization;labour market policy;3;https://openalex.org/W2329765699 | https://openalex.org/W3043909686 | https://openalex.org/W3048133816
+labor market polarization;low-skilled jobs;2;https://openalex.org/W3123336231 | https://openalex.org/W3147494282
+labor market polarization;low-skilled workers;3;https://openalex.org/W2097878363 | https://openalex.org/W2998455712 | https://openalex.org/W3140944539
+labor market polarization;low-wage employment;1;https://openalex.org/W3124544360
+labor market polarization;manual tasks;1;https://openalex.org/W2305891496
+labor market polarization;middle-skill jobs;1;https://openalex.org/W3123336231
+labor market polarization;middle-skilled workers;2;https://openalex.org/W2157496154 | https://openalex.org/W2998455712
+labor market polarization;occupational structure;1;https://openalex.org/W2988323971
+labor market polarization;offshoring;6;https://openalex.org/W2040848972 | https://openalex.org/W2157496154 | https://openalex.org/W2912760045 | https://openalex.org/W3123336231 | https://openalex.org/W3158026905 | https://openalex.org/W4200599862
+labor market polarization;routine occupations;2;https://openalex.org/W3156157244 | https://openalex.org/W4403984775
+labor market polarization;routine tasks;4;https://openalex.org/W2157496154 | https://openalex.org/W2305891496 | https://openalex.org/W2807224071 | https://openalex.org/W3033909157
+labor market polarization;routine-biased technological change;1;https://openalex.org/W2807224071
+labor market polarization;skill composition;2;https://openalex.org/W2217477576 | https://openalex.org/W2998455712
+labor market polarization;skill heterogeneity;1;https://openalex.org/W3123336231
+labor market polarization;skill polarization;2;https://openalex.org/W1982020224 | https://openalex.org/W2040848972
+labor market polarization;skill premium;2;https://openalex.org/W3520954 | https://openalex.org/W4391445748
+labor market polarization;skill requirements;2;https://openalex.org/W2305891496 | https://openalex.org/W4289794295
+labor market polarization;skill-biased technological change;13;https://openalex.org/W1982020224 | https://openalex.org/W1983703245 | https://openalex.org/W2040848972 | https://openalex.org/W2084542493 | https://openalex.org/W2097878363 | https://openalex.org/W2592750997 | https://openalex.org/W2988830362 | https://openalex.org/W3048133816 | https://openalex.org/W3123336231 | https://openalex.org/W3124401164 | https://openalex.org/W3140944539 | https://openalex.org/W3520954 | https://openalex.org/W4391445748
+labor market polarization;skills mismatch;2;https://openalex.org/W2796653460 | https://openalex.org/W2988323971
+labor market polarization;structural change;2;https://openalex.org/W3025021589 | https://openalex.org/W4391445748
+labor market polarization;technological change;6;https://openalex.org/W2274726381 | https://openalex.org/W2282957970 | https://openalex.org/W2305891496 | https://openalex.org/W2912760045 | https://openalex.org/W2988323971 | https://openalex.org/W4394677177
+labor market polarization;unemployment;2;https://openalex.org/W2807224071 | https://openalex.org/W3156157244
+labor market polarization;united states labor market;4;https://openalex.org/W2983296220 | https://openalex.org/W3124401164 | https://openalex.org/W3124544360 | https://openalex.org/W3158026905
+labor market polarization;upskilling;1;https://openalex.org/W3147494282
+labor market polarization;wage distribution;2;https://openalex.org/W3124544360 | https://openalex.org/W4391445748
+labor market polarization;wage inequality;10;https://openalex.org/W1983703245 | https://openalex.org/W2040848972 | https://openalex.org/W2097878363 | https://openalex.org/W2157496154 | https://openalex.org/W2282957970 | https://openalex.org/W2592750997 | https://openalex.org/W3048133816 | https://openalex.org/W3124544360 | https://openalex.org/W3135469300 | https://openalex.org/W3520954
+labor market polarization;wage polarization;6;https://openalex.org/W2282957970 | https://openalex.org/W3033909157 | https://openalex.org/W3124401164 | https://openalex.org/W3140944539 | https://openalex.org/W3158026905 | https://openalex.org/W4281993758
+labor market structure;low-skilled jobs;1;https://openalex.org/W2594139736
+labor market structure;low-skilled workers;1;https://openalex.org/W2802907381
+labor market structure;middle-skill jobs;1;https://openalex.org/W2594139736
+labor market structure;offshoring;1;https://openalex.org/W1980544129
+labor market structure;routine-biased technological change;1;https://openalex.org/W1980544129
+labor market structure;skill heterogeneity;1;https://openalex.org/W2802907381
+labor market structure;skill-biased technological change;1;https://openalex.org/W1980544129
+labor market structure;technological change;1;https://openalex.org/W2594139736
+labor market structure;wage polarization;1;https://openalex.org/W7217172604
+labor reallocation;labour market institutions;1;https://openalex.org/W2912760045
+labor reallocation;manufacturing industry;1;https://openalex.org/W2963286498
+labor reallocation;occupational structure;1;https://openalex.org/W2963286498
+labor reallocation;offshoring;2;https://openalex.org/W2912760045 | https://openalex.org/W3124997991
+labor reallocation;routine occupations;1;https://openalex.org/W2584472969
+labor reallocation;skill heterogeneity;2;https://openalex.org/W2584472969 | https://openalex.org/W3123772990
+labor reallocation;structural change;1;https://openalex.org/W2963286498
+labor reallocation;technological change;1;https://openalex.org/W2912760045
+labor reallocation;united states labor market;1;https://openalex.org/W2963286498
+labor reallocation;wage growth;3;https://openalex.org/W2584472969 | https://openalex.org/W2963286498 | https://openalex.org/W3123772990
+labour market institutions;labour market policy;1;https://openalex.org/W3048133816
+labour market institutions;low-wage employment;1;https://openalex.org/W2014846722
+labour market institutions;offshoring;1;https://openalex.org/W2912760045
+labour market institutions;skill upgrading;1;https://openalex.org/W4409603050
+labour market institutions;skill-biased technological change;1;https://openalex.org/W3048133816
+labour market institutions;technological change;2;https://openalex.org/W2014846722 | https://openalex.org/W2912760045
+labour market institutions;united states labor market;1;https://openalex.org/W2014846722
+labour market institutions;wage inequality;1;https://openalex.org/W3048133816
+labour market policy;manufacturing industry;1;https://openalex.org/W3174480891
+labour market policy;occupational structure;1;https://openalex.org/W2093194610
+labour market policy;skill heterogeneity;1;https://openalex.org/W3174480891
+labour market policy;skill polarization;1;https://openalex.org/W2093194610
+labour market policy;skill-biased technological change;2;https://openalex.org/W3048133816 | https://openalex.org/W3174480891
+labour market policy;structural change;1;https://openalex.org/W3174480891
+labour market policy;technological change;1;https://openalex.org/W4400474307
+labour market policy;wage inequality;2;https://openalex.org/W3048133816 | https://openalex.org/W4400474307
+labour market policy;wage polarization;1;https://openalex.org/W2093194610
+low-skilled jobs;manufacturing industry;1;https://openalex.org/W2985589102
+low-skilled jobs;middle-skill jobs;6;https://openalex.org/W2158550634 | https://openalex.org/W2594139736 | https://openalex.org/W3116995052 | https://openalex.org/W3123336231 | https://openalex.org/W4410505689 | https://openalex.org/W4413751012
+low-skilled jobs;occupational structure;2;https://openalex.org/W4410505689 | https://openalex.org/W7215972942
+low-skilled jobs;offshoring;2;https://openalex.org/W2158550634 | https://openalex.org/W3123336231
+low-skilled jobs;skill heterogeneity;1;https://openalex.org/W3123336231
+low-skilled jobs;skill polarization;1;https://openalex.org/W2901549315
+low-skilled jobs;skill premium;1;https://openalex.org/W2598446018
+low-skilled jobs;skill requirements;1;https://openalex.org/W4402589585
+low-skilled jobs;skill upgrading;1;https://openalex.org/W2606967191
+low-skilled jobs;skill-biased technological change;8;https://openalex.org/W2158550634 | https://openalex.org/W2606967191 | https://openalex.org/W2985589102 | https://openalex.org/W3089590098 | https://openalex.org/W3123336231 | https://openalex.org/W3183893887 | https://openalex.org/W4382796983 | https://openalex.org/W4410505689
+low-skilled jobs;skills mismatch;1;https://openalex.org/W7215972942
+low-skilled jobs;spain;1;https://openalex.org/W2606967191
+low-skilled jobs;structural change;1;https://openalex.org/W4390878180
+low-skilled jobs;technological change;4;https://openalex.org/W2594139736 | https://openalex.org/W2901549315 | https://openalex.org/W4410505689 | https://openalex.org/W4413751012
+low-skilled jobs;technology adoption;1;https://openalex.org/W4402589585
+low-skilled jobs;upskilling;2;https://openalex.org/W3147494282 | https://openalex.org/W4402589585
+low-skilled jobs;wage inequality;1;https://openalex.org/W4382796983
+low-skilled jobs;wage polarization;1;https://openalex.org/W7215972942
+low-skilled workers;middle-skilled workers;3;https://openalex.org/W2998455712 | https://openalex.org/W4306951135 | https://openalex.org/W4353081282
+low-skilled workers;skill composition;2;https://openalex.org/W2998455712 | https://openalex.org/W4353081282
+low-skilled workers;skill heterogeneity;1;https://openalex.org/W2802907381
+low-skilled workers;skill-biased technological change;2;https://openalex.org/W2097878363 | https://openalex.org/W3140944539
+low-skilled workers;wage distribution;1;https://openalex.org/W4410279410
+low-skilled workers;wage inequality;1;https://openalex.org/W2097878363
+low-skilled workers;wage polarization;2;https://openalex.org/W3140944539 | https://openalex.org/W4410279410
+low-wage employment;manual tasks;1;https://openalex.org/W2213841331
+low-wage employment;manufacturing industry;1;https://openalex.org/W2836580928
+low-wage employment;routine tasks;3;https://openalex.org/W2213841331 | https://openalex.org/W2836580928 | https://openalex.org/W4416674080
+low-wage employment;routine-biased technological change;1;https://openalex.org/W4416674080
+low-wage employment;skill upgrading;1;https://openalex.org/W4416674080
+low-wage employment;skill-biased technological change;1;https://openalex.org/W1601261096
+low-wage employment;technological change;3;https://openalex.org/W2014846722 | https://openalex.org/W2213841331 | https://openalex.org/W2836580928
+low-wage employment;united states labor market;2;https://openalex.org/W2014846722 | https://openalex.org/W3124544360
+low-wage employment;wage distribution;2;https://openalex.org/W2002292547 | https://openalex.org/W3124544360
+low-wage employment;wage inequality;2;https://openalex.org/W1601261096 | https://openalex.org/W3124544360
+manual tasks;manufacturing industry;1;https://openalex.org/W4391699154
+manual tasks;routine tasks;5;https://openalex.org/W2213841331 | https://openalex.org/W2305891496 | https://openalex.org/W2886683709 | https://openalex.org/W4391699154 | https://openalex.org/W4414267786
+manual tasks;skill requirements;1;https://openalex.org/W2305891496
+manual tasks;technological change;5;https://openalex.org/W2213841331 | https://openalex.org/W2305891496 | https://openalex.org/W2886683709 | https://openalex.org/W4391699154 | https://openalex.org/W4414267786
+manual tasks;wage polarization;1;https://openalex.org/W4414267786
+manufacturing industry;occupational structure;1;https://openalex.org/W2963286498
+manufacturing industry;routine tasks;2;https://openalex.org/W2836580928 | https://openalex.org/W4391699154
+manufacturing industry;skill heterogeneity;1;https://openalex.org/W3174480891
+manufacturing industry;skill-biased technological change;3;https://openalex.org/W2801676145 | https://openalex.org/W2985589102 | https://openalex.org/W3174480891
+manufacturing industry;structural change;2;https://openalex.org/W2963286498 | https://openalex.org/W3174480891
+manufacturing industry;technological change;2;https://openalex.org/W2836580928 | https://openalex.org/W4391699154
+manufacturing industry;united states labor market;1;https://openalex.org/W2963286498
+manufacturing industry;wage growth;1;https://openalex.org/W2963286498
+middle-skill jobs;occupational structure;2;https://openalex.org/W4400930769 | https://openalex.org/W4410505689
+middle-skill jobs;offshoring;2;https://openalex.org/W2158550634 | https://openalex.org/W3123336231
+middle-skill jobs;skill heterogeneity;1;https://openalex.org/W3123336231
+middle-skill jobs;skill premium;1;https://openalex.org/W4400930769
+middle-skill jobs;skill-biased technological change;4;https://openalex.org/W2094615217 | https://openalex.org/W2158550634 | https://openalex.org/W3123336231 | https://openalex.org/W4410505689
+middle-skill jobs;structural change;1;https://openalex.org/W2094615217
+middle-skill jobs;technological change;4;https://openalex.org/W2094615217 | https://openalex.org/W2594139736 | https://openalex.org/W4410505689 | https://openalex.org/W4413751012
+middle-skilled workers;offshoring;1;https://openalex.org/W2157496154
+middle-skilled workers;routine tasks;1;https://openalex.org/W2157496154
+middle-skilled workers;skill composition;2;https://openalex.org/W2998455712 | https://openalex.org/W4353081282
+middle-skilled workers;technological change;2;https://openalex.org/W4283362623 | https://openalex.org/W4385499585
+middle-skilled workers;upskilling;1;https://openalex.org/W4385499585
+middle-skilled workers;wage inequality;3;https://openalex.org/W2157496154 | https://openalex.org/W4283362623 | https://openalex.org/W4385499585
+middle-skilled workers;wage polarization;1;https://openalex.org/W4283362623
+occupational polarization;occupational structure;1;https://openalex.org/W4387301934
+occupational polarization;offshoring;1;https://openalex.org/W3123412422
+occupational polarization;routine occupations;1;https://openalex.org/W4387301934
+occupational polarization;skill upgrading;1;https://openalex.org/W3123412422
+occupational polarization;skill-biased technological change;1;https://openalex.org/W2569625930
+occupational polarization;spain;1;https://openalex.org/W2569625930
+occupational polarization;technological change;1;https://openalex.org/W3207283844
+occupational polarization;wage inequality;1;https://openalex.org/W4387301934
+occupational structure;offshoring;1;https://openalex.org/W3036557640
+occupational structure;routine occupations;1;https://openalex.org/W4387301934
+occupational structure;routine tasks;3;https://openalex.org/W2122742794 | https://openalex.org/W2518126812 | https://openalex.org/W4383092794
+occupational structure;skill composition;1;https://openalex.org/W2122742794
+occupational structure;skill polarization;1;https://openalex.org/W2093194610
+occupational structure;skill premium;1;https://openalex.org/W4400930769
+occupational structure;skill-biased technological change;2;https://openalex.org/W2518126812 | https://openalex.org/W4410505689
+occupational structure;skills mismatch;2;https://openalex.org/W2988323971 | https://openalex.org/W7215972942
+occupational structure;structural change;1;https://openalex.org/W2963286498
+occupational structure;technological change;4;https://openalex.org/W2988323971 | https://openalex.org/W3036557640 | https://openalex.org/W4383092794 | https://openalex.org/W4410505689
+occupational structure;united states labor market;1;https://openalex.org/W2963286498
+occupational structure;upskilling;1;https://openalex.org/W2122742794
+occupational structure;wage distribution;1;https://openalex.org/W2122742794
+occupational structure;wage growth;1;https://openalex.org/W2963286498
+occupational structure;wage inequality;2;https://openalex.org/W2122742794 | https://openalex.org/W4387301934
+occupational structure;wage polarization;2;https://openalex.org/W2093194610 | https://openalex.org/W7215972942
+offshoring;routine tasks;3;https://openalex.org/W2144089836 | https://openalex.org/W2157496154 | https://openalex.org/W2731446286
+offshoring;routine-biased technological change;1;https://openalex.org/W1980544129
+offshoring;skill heterogeneity;1;https://openalex.org/W3123336231
+offshoring;skill polarization;1;https://openalex.org/W2040848972
+offshoring;skill upgrading;1;https://openalex.org/W3123412422
+offshoring;skill-biased technological change;4;https://openalex.org/W1980544129 | https://openalex.org/W2040848972 | https://openalex.org/W2158550634 | https://openalex.org/W3123336231
+offshoring;technological change;3;https://openalex.org/W2731446286 | https://openalex.org/W2912760045 | https://openalex.org/W3036557640
+offshoring;united states labor market;1;https://openalex.org/W3158026905
+offshoring;wage inequality;2;https://openalex.org/W2040848972 | https://openalex.org/W2157496154
+offshoring;wage polarization;1;https://openalex.org/W3158026905
+routine occupations;routine-biased technological change;2;https://openalex.org/W3163827939 | https://openalex.org/W3184238417
+routine occupations;skill heterogeneity;1;https://openalex.org/W2584472969
+routine occupations;skill-biased technological change;2;https://openalex.org/W2195766474 | https://openalex.org/W3184238417
+routine occupations;technological change;1;https://openalex.org/W2253112294
+routine occupations;unemployment;1;https://openalex.org/W3156157244
+routine occupations;wage growth;1;https://openalex.org/W2584472969
+routine occupations;wage inequality;2;https://openalex.org/W4366123939 | https://openalex.org/W4387301934
+routine tasks;routine-biased technological change;2;https://openalex.org/W2807224071 | https://openalex.org/W4416674080
+routine tasks;skill composition;1;https://openalex.org/W2122742794
+routine tasks;skill requirements;1;https://openalex.org/W2305891496
+routine tasks;skill upgrading;1;https://openalex.org/W4416674080
+routine tasks;skill-biased technological change;2;https://openalex.org/W2518126812 | https://openalex.org/W2801924098
+routine tasks;spain;1;https://openalex.org/W2028130263
+routine tasks;technological change;8;https://openalex.org/W2213841331 | https://openalex.org/W2305891496 | https://openalex.org/W2731446286 | https://openalex.org/W2836580928 | https://openalex.org/W2886683709 | https://openalex.org/W4383092794 | https://openalex.org/W4391699154 | https://openalex.org/W4414267786
+routine tasks;unemployment;1;https://openalex.org/W2807224071
+routine tasks;upskilling;1;https://openalex.org/W2122742794
+routine tasks;wage distribution;3;https://openalex.org/W2028130263 | https://openalex.org/W2122742794 | https://openalex.org/W2801924098
+routine tasks;wage inequality;2;https://openalex.org/W2122742794 | https://openalex.org/W2157496154
+routine tasks;wage polarization;2;https://openalex.org/W3033909157 | https://openalex.org/W4414267786
+routine-biased technological change;skill premium;1;https://openalex.org/W4412752810
+routine-biased technological change;skill requirements;2;https://openalex.org/W2894899500 | https://openalex.org/W4301915042
+routine-biased technological change;skill upgrading;2;https://openalex.org/W2810019547 | https://openalex.org/W4416674080
+routine-biased technological change;skill-biased technological change;7;https://openalex.org/W1980544129 | https://openalex.org/W2468653392 | https://openalex.org/W2810019547 | https://openalex.org/W2894899500 | https://openalex.org/W3184238417 | https://openalex.org/W4301915042 | https://openalex.org/W7117554030
+routine-biased technological change;technological change;1;https://openalex.org/W2902310957
+routine-biased technological change;unemployment;1;https://openalex.org/W2807224071
+routine-biased technological change;wage growth;1;https://openalex.org/W2902310957
+routine-biased technological change;wage inequality;1;https://openalex.org/W3122869911
+routine-biased technological change;wage polarization;2;https://openalex.org/W2903587259 | https://openalex.org/W3122869911
+skill composition;technological change;2;https://openalex.org/W2898523402 | https://openalex.org/W3125987961
+skill composition;united states labor market;1;https://openalex.org/W2898523402
+skill composition;upskilling;1;https://openalex.org/W2122742794
+skill composition;wage distribution;1;https://openalex.org/W2122742794
+skill composition;wage inequality;1;https://openalex.org/W2122742794
+skill heterogeneity;skill-biased technological change;2;https://openalex.org/W3123336231 | https://openalex.org/W3174480891
+skill heterogeneity;structural change;1;https://openalex.org/W3174480891
+skill heterogeneity;wage growth;2;https://openalex.org/W2584472969 | https://openalex.org/W3123772990
+skill polarization;skill upgrading;1;https://openalex.org/W2799459484
+skill polarization;skill-biased technological change;4;https://openalex.org/W1536512579 | https://openalex.org/W1982020224 | https://openalex.org/W2040848972 | https://openalex.org/W3123889009
+skill polarization;technological change;1;https://openalex.org/W2901549315
+skill polarization;wage growth;1;https://openalex.org/W3123889009
+skill polarization;wage inequality;1;https://openalex.org/W2040848972
+skill polarization;wage polarization;2;https://openalex.org/W2093194610 | https://openalex.org/W4307631559
+skill premium;skill-biased technological change;3;https://openalex.org/W3520954 | https://openalex.org/W4389342453 | https://openalex.org/W4391445748
+skill premium;structural change;1;https://openalex.org/W4391445748
+skill premium;wage distribution;1;https://openalex.org/W4391445748
+skill premium;wage inequality;2;https://openalex.org/W3520954 | https://openalex.org/W4389342453
+skill premium;wage polarization;1;https://openalex.org/W4389342453
+skill requirements;skill-biased technological change;2;https://openalex.org/W2894899500 | https://openalex.org/W4301915042
+skill requirements;technological change;1;https://openalex.org/W2305891496
+skill requirements;technology adoption;1;https://openalex.org/W4402589585
+skill requirements;upskilling;1;https://openalex.org/W4402589585
+skill upgrading;skill-biased technological change;4;https://openalex.org/W2533829491 | https://openalex.org/W2606967191 | https://openalex.org/W2810019547 | https://openalex.org/W4400138638
+skill upgrading;spain;1;https://openalex.org/W2606967191
+skill-biased technological change;spain;3;https://openalex.org/W2569625930 | https://openalex.org/W2606967191 | https://openalex.org/W2767511076
+skill-biased technological change;structural change;3;https://openalex.org/W2094615217 | https://openalex.org/W3174480891 | https://openalex.org/W4391445748
+skill-biased technological change;technological change;3;https://openalex.org/W2094615217 | https://openalex.org/W2883557462 | https://openalex.org/W4410505689
+skill-biased technological change;technology adoption;1;https://openalex.org/W3123255208
+skill-biased technological change;unemployment;1;https://openalex.org/W2883557462
+skill-biased technological change;united states labor market;1;https://openalex.org/W3124401164
+skill-biased technological change;wage distribution;2;https://openalex.org/W2801924098 | https://openalex.org/W4391445748
+skill-biased technological change;wage growth;1;https://openalex.org/W3123889009
+skill-biased technological change;wage inequality;12;https://openalex.org/W1601261096 | https://openalex.org/W1983703245 | https://openalex.org/W2040848972 | https://openalex.org/W2097878363 | https://openalex.org/W2338164662 | https://openalex.org/W2592750997 | https://openalex.org/W2952951367 | https://openalex.org/W3048133816 | https://openalex.org/W3162732787 | https://openalex.org/W3520954 | https://openalex.org/W4382796983 | https://openalex.org/W4389342453
+skill-biased technological change;wage polarization;3;https://openalex.org/W3124401164 | https://openalex.org/W3140944539 | https://openalex.org/W4389342453
+skills mismatch;technological change;2;https://openalex.org/W2775999193 | https://openalex.org/W2988323971
+skills mismatch;wage inequality;1;https://openalex.org/W2981633104
+skills mismatch;wage polarization;1;https://openalex.org/W7215972942
+spain;wage distribution;1;https://openalex.org/W2028130263
+spain;wage polarization;1;https://openalex.org/W2888582947
+structural change;technological change;1;https://openalex.org/W2094615217
+structural change;technology adoption;1;https://openalex.org/W4386073658
+structural change;united states labor market;1;https://openalex.org/W2963286498
+structural change;wage distribution;1;https://openalex.org/W4391445748
+structural change;wage growth;1;https://openalex.org/W2963286498
+structural change;wage inequality;1;https://openalex.org/W989515610
+technological change;unemployment;1;https://openalex.org/W2883557462
+technological change;united states labor market;2;https://openalex.org/W2014846722 | https://openalex.org/W2898523402
+technological change;upskilling;1;https://openalex.org/W4385499585
+technological change;wage growth;1;https://openalex.org/W2902310957
+technological change;wage inequality;5;https://openalex.org/W2282957970 | https://openalex.org/W2476839729 | https://openalex.org/W4283362623 | https://openalex.org/W4385499585 | https://openalex.org/W4400474307
+technological change;wage polarization;3;https://openalex.org/W2282957970 | https://openalex.org/W4283362623 | https://openalex.org/W4414267786
+technology adoption;upskilling;1;https://openalex.org/W4402589585
+technology adoption;wage inequality;2;https://openalex.org/W3033062257 | https://openalex.org/W3124676230
+unemployment;wage inequality;1;https://openalex.org/W2081044796
+unemployment;wage polarization;1;https://openalex.org/W2081044796
+united states labor market;wage distribution;1;https://openalex.org/W3124544360
+united states labor market;wage growth;1;https://openalex.org/W2963286498
+united states labor market;wage inequality;1;https://openalex.org/W3124544360
+united states labor market;wage polarization;3;https://openalex.org/W2233688439 | https://openalex.org/W3124401164 | https://openalex.org/W3158026905
+upskilling;wage distribution;1;https://openalex.org/W2122742794
+upskilling;wage inequality;3;https://openalex.org/W2122742794 | https://openalex.org/W2565421516 | https://openalex.org/W4385499585
+wage distribution;wage inequality;3;https://openalex.org/W2122742794 | https://openalex.org/W2935286369 | https://openalex.org/W3124544360
+wage distribution;wage polarization;2;https://openalex.org/W2935286369 | https://openalex.org/W4410279410
+wage inequality;wage polarization;7;https://openalex.org/W2081044796 | https://openalex.org/W2115846199 | https://openalex.org/W2282957970 | https://openalex.org/W2935286369 | https://openalex.org/W3122869911 | https://openalex.org/W4283362623 | https://openalex.org/W4389342453

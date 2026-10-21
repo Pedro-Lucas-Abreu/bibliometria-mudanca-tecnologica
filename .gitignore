@@ -1,12 +1,26 @@
+# Python
 .venv/
 venv/
 __pycache__/
 *.py[cod]
 .pytest_cache/
+# Keys
 .env
 .env.*
 !.env.example
 *.key
+api_key.txt
+# LaTeX (preserve preview PDF)
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+# OS / editors
 .DS_Store
 Thumbs.db
 .vscode/

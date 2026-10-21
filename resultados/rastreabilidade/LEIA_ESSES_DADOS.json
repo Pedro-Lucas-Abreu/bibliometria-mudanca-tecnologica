@@ -1,0 +1,9 @@
+{
+  "registros_no_nucleo": 208,
+  "keywords_todas": 772,
+  "keywords_min5": 56,
+  "coocorrencias_min5": 545,
+  "arestas_acoplamento_min2": 8775,
+  "paises_pares": 54,
+  "explicacao": "Cada linha de ligação inclui IDs de artigos ou referências exatas que justificam o peso da aresta."
+}

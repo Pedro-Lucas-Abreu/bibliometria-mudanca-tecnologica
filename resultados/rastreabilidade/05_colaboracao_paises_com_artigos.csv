@@ -1,0 +1,55 @@
+﻿pais_1;pais_2;n_artigos;artigos_openalex_ids
+AU;CN;1;https://openalex.org/W3188968991
+AU;DE;1;https://openalex.org/W3188968991
+AU;IT;1;https://openalex.org/W2598446018
+AU;JP;1;https://openalex.org/W4403984775
+AU;US;2;https://openalex.org/W3188968991 | https://openalex.org/W4403984775
+BE;FR;1;https://openalex.org/W2002292547
+BE;GB;4;https://openalex.org/W1601261096 | https://openalex.org/W1980544129 | https://openalex.org/W2158550634 | https://openalex.org/W2912760045
+BE;NL;2;https://openalex.org/W1980544129 | https://openalex.org/W2810019547
+BE;SI;1;https://openalex.org/W2912760045
+BE;US;1;https://openalex.org/W2002292547
+CA;CH;1;https://openalex.org/W2903546586
+CA;DE;1;https://openalex.org/W3122323862
+CA;FR;1;https://openalex.org/W3122323862
+CA;GB;2;https://openalex.org/W2282957970 | https://openalex.org/W2903546586
+CA;US;3;https://openalex.org/W2584472969 | https://openalex.org/W2903546586 | https://openalex.org/W3123772990
+CH;ES;2;https://openalex.org/W2569625930 | https://openalex.org/W3124401164
+CH;GB;2;https://openalex.org/W2233688439 | https://openalex.org/W2903546586
+CH;LV;1;https://openalex.org/W2325270150
+CH;US;2;https://openalex.org/W2903546586 | https://openalex.org/W3124401164
+CN;DE;1;https://openalex.org/W3188968991
+CN;US;2;https://openalex.org/W3188968991 | https://openalex.org/W4382796983
+DE;FR;5;https://openalex.org/W2040848972 | https://openalex.org/W2253112294 | https://openalex.org/W2476839729 | https://openalex.org/W3122323862 | https://openalex.org/W3139536558
+DE;GB;2;https://openalex.org/W2253112294 | https://openalex.org/W2806644267
+DE;NO;1;https://openalex.org/W2807224071
+DE;US;2;https://openalex.org/W3188968991 | https://openalex.org/W4301915042
+DK;FR;1;https://openalex.org/W3036557640
+DO;MX;1;https://openalex.org/W4285348301
+ES;GB;1;https://openalex.org/W2888582947
+ES;IN;1;https://openalex.org/W2195766474
+ES;IT;2;https://openalex.org/W2888582947 | https://openalex.org/W3174480891
+ES;PL;1;https://openalex.org/W4289794295
+ES;US;1;https://openalex.org/W3124401164
+FI;IT;1;https://openalex.org/W4392288163
+FI;US;1;https://openalex.org/W3123412422
+FR;GB;3;https://openalex.org/W2253112294 | https://openalex.org/W2963286498 | https://openalex.org/W989515610
+FR;IT;1;https://openalex.org/W4391286721
+FR;RE;2;https://openalex.org/W4392348990 | https://openalex.org/W4401643884
+FR;US;3;https://openalex.org/W2002292547 | https://openalex.org/W2930567992 | https://openalex.org/W3033062257
+GB;IT;1;https://openalex.org/W2888582947
+GB;NL;2;https://openalex.org/W1980544129 | https://openalex.org/W3133769302
+GB;SI;1;https://openalex.org/W2912760045
+GB;US;1;https://openalex.org/W2903546586
+IL;IT;1;https://openalex.org/W2115846199
+IQ;JO;1;https://openalex.org/W4401127118
+IT;NL;1;https://openalex.org/W4386073658
+IT;US;1;https://openalex.org/W3122869911
+JP;NL;1;https://openalex.org/W4388721073
+JP;US;2;https://openalex.org/W4388721073 | https://openalex.org/W4403984775
+KR;US;1;https://openalex.org/W4283834517
+NL;US;1;https://openalex.org/W4388721073
+PT;SE;1;https://openalex.org/W2789805245
+PT;US;1;https://openalex.org/W2789805245
+RU;UA;1;https://openalex.org/W3156157244
+SE;US;1;https://openalex.org/W2789805245

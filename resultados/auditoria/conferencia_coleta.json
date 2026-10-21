@@ -1,0 +1,42 @@
+{
+  "fonte": "arquivos locais congelados de coleta OpenAlex; não consulta API ao executar",
+  "data_processamento_local": "2026-10-19T23:58:58",
+  "consultas": [
+    {
+      "busca": "B1",
+      "expressao": "job polarization",
+      "contagem_api_atual": "1240"
+    },
+    {
+      "busca": "B2",
+      "expressao": "employment polarization",
+      "contagem_api_atual": "1519"
+    },
+    {
+      "busca": "B3",
+      "expressao": "occupational polarization",
+      "contagem_api_atual": "359"
+    },
+    {
+      "busca": "B4",
+      "expressao": "labor market polarization",
+      "contagem_api_atual": "945"
+    },
+    {
+      "busca": "B5",
+      "expressao": "routine-biased technological change",
+      "contagem_api_atual": "326"
+    },
+    {
+      "busca": "B6",
+      "expressao": "routine-biased technical change",
+      "contagem_api_atual": "586"
+    }
+  ],
+  "total_aparicoes": 4975,
+  "registros_unicos": 3468,
+  "aparicoes_excedentes": 1507,
+  "sem_referencias": 1373,
+  "sem_resumo_indexado": 431,
+  "arquivos_originais_hash_ok": 10
+}
