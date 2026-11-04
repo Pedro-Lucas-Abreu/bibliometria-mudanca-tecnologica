@@ -10,7 +10,7 @@ __pycache__/
 !.env.example
 *.key
 api_key.txt
-# LaTeX (preserve preview PDF)
+# LaTeX: arquivos locais e auxiliares
 *.aux
 *.bbl
 *.blg
@@ -24,3 +24,7 @@ api_key.txt
 .DS_Store
 Thumbs.db
 .vscode/
+
+# Manuscrito local, nao publicado neste repositorio
+/artigo_bibliometria/
+/artigo/
