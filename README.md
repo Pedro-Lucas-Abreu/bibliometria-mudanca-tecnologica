@@ -1,56 +1,42 @@
 # Mudança tecnológica, polarização ocupacional e desigualdade salarial (2000–2025)
 
-Repositório de **dados, código e resultados** de uma análise bibliométrica exploratória da literatura sobre mudança tecnológica e polarização ocupacional. Projeto acadêmico da disciplina de doutorado em Economia da UFSC.
+Repositório de dados, código, critérios documentais e resultados de uma **análise bibliométrica exploratória** da literatura sobre mudança tecnológica e polarização ocupacional (doutorado em Economia, UFSC).
 
-**Situação em 03/11/2026:** a base inicial contém **3.468 registros únicos** extraídos do OpenAlex por seis consultas. A triagem automatizada e uma amostra manual de títulos/resumos produziram **208 artigos em núcleo provisório**, **845 pendentes de avaliação** e **2.415 não selecionados**. **O corpus não foi validado integralmente.** As redes e figuras são descritivas e condicionais ao processo de busca e seleção; não representam toda a literatura nem identificam efeitos causais.
+## Situação atual — 18/11/2026
 
-**O manuscrito em LaTeX e seu PDF são mantidos fora deste repositório.** Este espaço disponibiliza a base processada e o código de reprodução, não o texto do artigo.
+O **corpus documental harmonizado contém 326 obras únicas** (artigos/revisões de periódicos, publicações editoriais de 2000–2025). A base inicial tinha 3.468 registros únicos do OpenAlex, coletados por seis consultas. A seleção passou por triagem assistida, reconciliação de versões e harmonização documental; **não é uma revisão sistemática exaustiva nem uma leitura integral de 326 artigos**.
 
-## Estrutura
+Resultados do cenário harmonizado (limiar de cinco artigos por palavra-chave): **91 termos**, **1.269 ligações**, **cinco comunidades Louvain** (semente 42), modularidade ponderada **Q = 0,11415**; **269 obras com referências indexadas**. Acoplamento dentro versus entre comunidades não apresentou diferença convincente (permutação bicaudal p ≈ 0,275). A interpretação depende das buscas e do corpus.
 
-- `dados/originais_openalex/`: exportação congelada e auditoria das consultas do OpenAlex.
-- `dados/insumos_triagem/`: insumos para a triagem e a amostra de 120 registros examinados por título/resumo.
-- `scripts/`: validação, regras de triagem, redes bibliométricas, testes, rastreabilidade, relatório e evolução de palavras-chave.
-- `resultados/triagem/`: decisões para o universo de 3.468 registros, núcleo provisório de 208 e casos pendentes.
-- `resultados/analises/`: tabelas, indicadores e figuras de redes e evolução temática.
-- `resultados/rastreabilidade/`: documentos e referências que sustentam as ligações representadas.
-- `documentacao/02_METODOLOGIA.md`: critérios, parâmetros, fórmulas e limitações.
-- `documentacao/04_PENDENCIAS.md`: questões científicas que permanecem sem resolução.
-- `resultados/RELATORIO_REPRODUZIVEL.md`: relatório das análises originais.
-
-## Como reproduzir (Python 3.11+)
-
-Execute na raiz do repositório:
+### Como reproduzir a versão atual
 
 ```powershell
 python -m pip install -r requirements.txt
-python executar_tudo.py
+python scripts/10_reproduzir_corpus_326.py
 ```
 
-As análises utilizam arquivos locais congelados, sem requerer chave de API nem nova consulta ao OpenAlex. O fluxo executa nove scripts, incluindo `scripts/09_evolucao_keywords.py`, que reproduz a evolução temática em janelas móveis de cinco anos.
+O script usa apenas [a exportação original congelada do OpenAlex](dados/originais_openalex/07_openalex_uniao_vosviewer.json), [os 326 IDs selecionados](dados/harmonizado_326/ids_selecionados.txt) e as correções editoriais explicitadas no próprio código; **não precisa consultar a API**.
 
-**Gráfico temporal adicionado em 03/11/2026:**
-- [Tabela com os numeradores, denominadores e percentuais](resultados/analises/evolucao_keywords_janelas_5anos.csv).
-- [Código que reproduz a tabela e o PNG da figura](scripts/09_evolucao_keywords.py).
+Os resultados atualizados são escritos em [resultados/harmonizado_326/](resultados/harmonizado_326/) (JSON do corpus, indicadores, tabelas e quatro figuras). O [workflow do GitHub Actions](.github/workflows/reproduzir_326.yml) executa a mesma rotina e publica as saídas quando tem permissão de escrita. Se a pasta ainda não estiver disponível, execute o comando localmente ou rode o workflow.
 
-O gráfico mede o percentual de documentos com determinadas palavras-chave atribuídas pelo OpenAlex; não estima modelos dinâmicos de tópicos (DTM), LDA ou STM. Cada ponto usa uma janela de cinco anos e somente janelas com pelo menos 20 documentos são mostradas. As janelas se sobrepõem e não constituem observações independentes.
+### Resultados e documentação
 
-Para conferir a execução, consulte `resultados/resumo_reproducibilidade.json`, `resultados/analises/indicadores.json` e `resultados/RELATORIO_REPRODUZIVEL.md`. O arquivo `resultados/analises/fig3_evolucao_janelas_5anos.png` é gerado localmente após a execução completa.
+- [Relatório do corpus harmonizado de 326 obras](documentacao/13_HARMONIZACAO_METODOLOGICA_CORPUS_326_18NOV2026.md).
+- [Fechamento dos 106 registros e base intermediária de 362 obras](documentacao/12_FECHAMENTO_106_CORPUS_362_17NOV2026.md).
+- [Política de exclusões e versões duplicadas](documentacao/11_POLITICA_EXCLUSOES_243_17NOV2026.md).
+- [Roteiro de revisão dos 845 pendentes](documentacao/08_REVISAO_DOCUMENTAL_ASSISTIDA_845_17NOV2026.md).
+- [Critérios e pendências históricas](documentacao/02_METODOLOGIA.md).
 
-## Acesso aos dados processados
+### Versão histórica de 208 artigos
 
-- [Núcleo provisório (208 registros)](resultados/triagem/02_nucleo_provisorio.csv)
-- [Classificação dos 3.468 registros](resultados/triagem/01_decisoes_3468.csv)
-- [Revisão pendente (845 registros)](resultados/triagem/03_revisao_pendente.csv)
-- [Resultados bibliométricos](resultados/analises/)
-- [Rastreabilidade das redes](resultados/rastreabilidade/)
+Os scripts `01`–`09`, o `executar_tudo.py` e o conteúdo das pastas `resultados/triagem/`, `resultados/analises/` e `resultados/rastreabilidade/` **permanecem preservados como cenário exploratório original de 208 artigos**, para transparência e comparação. Executar `python executar_tudo.py` **reproduz apenas a versão histórica**, não a versão vigente de 326 obras.
+
+### Manuscrito
+
+O manuscrito atualizado em LaTeX/PDF foi preparado separadamente; não faz parte deste repositório por opção de organização da pesquisa. Os resultados e a metodologia atualizada estão documentados aqui. O manuscrito anterior e a apresentação original utilizavam a base histórica de 208 e não devem ser confundidos com a análise harmonizada.
+
+### Limitações
+
+Faltam resumos indexados para 68 das 326 obras, DOI para 30 e referências indexadas para 57. Os 2.415 registros inicialmente não selecionados não foram auditados exaustivamente; uma amostra apontou possíveis falsos negativos. A rede depende dos termos indexados pelo OpenAlex, dos parâmetros do Louvain e da definição do corpus. A análise **não** estima efeitos causais da tecnologia sobre emprego ou salários.
 
 URL pública: https://github.com/Pedro-Lucas-Abreu/bibliometria-mudanca-tecnologica
-
-## Alcance e limitações
-
-As decisões automáticas dependem de títulos, resumos e metadados de indexação; 120 registros foram examinados apenas por título e trecho de resumo, sem leitura integral. Há potenciais duplicatas e ausências de trabalhos centrais. Parte dos registros não tem referências indexadas nem país de afiliação identificado. As consultas originais privilegiam polarização ocupacional e RBTC; não cobrem de maneira abrangente inteligência artificial nem transição verde/digital.
-
-Os resultados publicados são **exploratórios**. A reprodução computacional não substitui a validação substantiva da seleção; ver [metodologia](documentacao/02_METODOLOGIA.md) e [pendências](documentacao/04_PENDENCIAS.md).
-
-Metadados bibliográficos: OpenAlex. O repositório não distribui textos integrais de artigos protegidos por direitos autorais.

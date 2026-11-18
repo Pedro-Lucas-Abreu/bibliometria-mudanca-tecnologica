@@ -1,0 +1,32 @@
+name: Reproduzir corpus harmonizado (326)
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/10_reproduzir_corpus_326.py'
+      - 'dados/harmonizado_326/ids_selecionados.txt'
+      - '.github/workflows/reproduzir_326.yml'
+permissions:
+  contents: write
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - run: python scripts/10_reproduzir_corpus_326.py
+      - name: Publicar saídas reproduzidas
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add resultados/harmonizado_326/
+          if ! git diff --cached --quiet; then
+            git commit -m "Gerar corpus harmonizado 326 e resultados bibliométricos"
+            git push
+          fi
