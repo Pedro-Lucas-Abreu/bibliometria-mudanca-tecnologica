@@ -1,0 +1,228 @@
+{
+  "cenario": "corpus_harmonizado_326",
+  "artigos": 326,
+  "rede_keywords": {
+    "nos": 91,
+    "arestas": 1269,
+    "peso_total": 2700,
+    "comunidades": 5,
+    "modularidade": 0.11415,
+    "job_polarization": 168
+  },
+  "sensibilidade": {
+    "min3": {
+      "nos": 201,
+      "arestas": 2831,
+      "comunidades": 9,
+      "Q": 0.15336
+    },
+    "min5": {
+      "nos": 91,
+      "arestas": 1269,
+      "comunidades": 5,
+      "Q": 0.11415
+    },
+    "min8": {
+      "nos": 59,
+      "arestas": 748,
+      "comunidades": 5,
+      "Q": 0.08651
+    },
+    "min5_sem_job_polarization": {
+      "nos": 90,
+      "arestas": 1179,
+      "comunidades": 6,
+      "Q": 0.14142
+    }
+  },
+  "periodos": [
+    {
+      "periodo": "2000–2012",
+      "n": 37
+    },
+    {
+      "periodo": "2013–2018",
+      "n": 102
+    },
+    {
+      "periodo": "2019–2025",
+      "n": 187
+    }
+  ],
+  "termos_periodos": [
+    {
+      "cenario": "corpus_harmonizado_326",
+      "periodo": "2000–2012",
+      "tema": "Polarizacao ocupacional",
+      "artigos_periodo": 37,
+      "artigos_com_termo": 30,
+      "percentual": 81.081
+    },
+    {
+      "cenario": "corpus_harmonizado_326",
+      "periodo": "2000–2012",
+      "tema": "Rotinizacao / RBTC",
+      "artigos_periodo": 37,
+      "artigos_com_termo": 1,
+      "percentual": 2.703
+    },
+    {
+      "cenario": "corpus_harmonizado_326",
+      "periodo": "2000–2012",
+      "tema": "Automacao",
+      "artigos_periodo": 37,
+      "artigos_com_termo": 0,
+      "percentual": 0.0
+    },
+    {
+      "cenario": "corpus_harmonizado_326",
+      "periodo": "2000–2012",
+      "tema": "Inteligencia artificial",
+      "artigos_periodo": 37,
+      "artigos_com_termo": 0,
+      "percentual": 0.0
+    },
+    {
+      "cenario": "corpus_harmonizado_326",
+      "periodo": "2000–2012",
+      "tema": "Offshoring",
+      "artigos_periodo": 37,
+      "artigos_com_termo": 2,
+      "percentual": 5.405
+    },
+    {
+      "cenario": "corpus_harmonizado_326",
+      "periodo": "2000–2012",
+      "tema": "Desigualdade salarial",
+      "artigos_periodo": 37,
+      "artigos_com_termo": 12,
+      "percentual": 32.432
+    },
+    {
+      "cenario": "corpus_harmonizado_326",
+      "periodo": "2013–2018",
+      "tema": "Polarizacao ocupacional",
+      "artigos_periodo": 102,
+      "artigos_com_termo": 89,
+      "percentual": 87.255
+    },
+    {
+      "cenario": "corpus_harmonizado_326",
+      "periodo": "2013–2018",
+      "tema": "Rotinizacao / RBTC",
+      "artigos_periodo": 102,
+      "artigos_com_termo": 25,
+      "percentual": 24.51
+    },
+    {
+      "cenario": "corpus_harmonizado_326",
+      "periodo": "2013–2018",
+      "tema": "Automacao",
+      "artigos_periodo": 102,
+      "artigos_com_termo": 7,
+      "percentual": 6.863
+    },
+    {
+      "cenario": "corpus_harmonizado_326",
+      "periodo": "2013–2018",
+      "tema": "Inteligencia artificial",
+      "artigos_periodo": 102,
+      "artigos_com_termo": 1,
+      "percentual": 0.98
+    },
+    {
+      "cenario": "corpus_harmonizado_326",
+      "periodo": "2013–2018",
+      "tema": "Offshoring",
+      "artigos_periodo": 102,
+      "artigos_com_termo": 8,
+      "percentual": 7.843
+    },
+    {
+      "cenario": "corpus_harmonizado_326",
+      "periodo": "2013–2018",
+      "tema": "Desigualdade salarial",
+      "artigos_periodo": 102,
+      "artigos_com_termo": 34,
+      "percentual": 33.333
+    },
+    {
+      "cenario": "corpus_harmonizado_326",
+      "periodo": "2019–2025",
+      "tema": "Polarizacao ocupacional",
+      "artigos_periodo": 187,
+      "artigos_com_termo": 148,
+      "percentual": 79.144
+    },
+    {
+      "cenario": "corpus_harmonizado_326",
+      "periodo": "2019–2025",
+      "tema": "Rotinizacao / RBTC",
+      "artigos_periodo": 187,
+      "artigos_com_termo": 39,
+      "percentual": 20.856
+    },
+    {
+      "cenario": "corpus_harmonizado_326",
+      "periodo": "2019–2025",
+      "tema": "Automacao",
+      "artigos_periodo": 187,
+      "artigos_com_termo": 39,
+      "percentual": 20.856
+    },
+    {
+      "cenario": "corpus_harmonizado_326",
+      "periodo": "2019–2025",
+      "tema": "Inteligencia artificial",
+      "artigos_periodo": 187,
+      "artigos_com_termo": 9,
+      "percentual": 4.813
+    },
+    {
+      "cenario": "corpus_harmonizado_326",
+      "periodo": "2019–2025",
+      "tema": "Offshoring",
+      "artigos_periodo": 187,
+      "artigos_com_termo": 5,
+      "percentual": 2.674
+    },
+    {
+      "cenario": "corpus_harmonizado_326",
+      "periodo": "2019–2025",
+      "tema": "Desigualdade salarial",
+      "artigos_periodo": 187,
+      "artigos_com_termo": 41,
+      "percentual": 21.925
+    }
+  ],
+  "acoplamento": {
+    "com_referencias": 269,
+    "sem_referencias": 57,
+    "pares_possiveis": 36046,
+    "pares_compartilham_2mais": 22418,
+    "porcentagem_pares_2mais": 62.193
+  },
+  "louvain_100_sementes": {
+    "numero_comunidades": {
+      "5": 61,
+      "6": 29,
+      "4": 8,
+      "7": 2
+    },
+    "ARI_medio_pares": 0.44129,
+    "Q_min": 0.10413,
+    "Q_max": 0.11975
+  },
+  "acoplamento_interno_externo": {
+    "artigos_com_grupo_e_referencias": 269,
+    "artigos_com_empate": 61,
+    "pares_dentro": 14395,
+    "pares_entre": 21651,
+    "pares_2mais_dentro": 8671,
+    "pares_2mais_entre": 13747,
+    "frac_dentro": 0.60236,
+    "frac_entre": 0.63494,
+    "diferenca_pontos_percentuais": -3.257,
+    "p_permutacao_bicaudal": 0.275
+  }
+}

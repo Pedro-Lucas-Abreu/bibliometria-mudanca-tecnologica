@@ -1,0 +1,19 @@
+﻿cenario;periodo;tema;artigos_periodo;artigos_com_termo;percentual
+corpus_harmonizado_326;2000–2012;Polarizacao ocupacional;37;30;81.081
+corpus_harmonizado_326;2000–2012;Rotinizacao / RBTC;37;1;2.703
+corpus_harmonizado_326;2000–2012;Automacao;37;0;0.0
+corpus_harmonizado_326;2000–2012;Inteligencia artificial;37;0;0.0
+corpus_harmonizado_326;2000–2012;Offshoring;37;2;5.405
+corpus_harmonizado_326;2000–2012;Desigualdade salarial;37;12;32.432
+corpus_harmonizado_326;2013–2018;Polarizacao ocupacional;102;89;87.255
+corpus_harmonizado_326;2013–2018;Rotinizacao / RBTC;102;25;24.51
+corpus_harmonizado_326;2013–2018;Automacao;102;7;6.863
+corpus_harmonizado_326;2013–2018;Inteligencia artificial;102;1;0.98
+corpus_harmonizado_326;2013–2018;Offshoring;102;8;7.843
+corpus_harmonizado_326;2013–2018;Desigualdade salarial;102;34;33.333
+corpus_harmonizado_326;2019–2025;Polarizacao ocupacional;187;148;79.144
+corpus_harmonizado_326;2019–2025;Rotinizacao / RBTC;187;39;20.856
+corpus_harmonizado_326;2019–2025;Automacao;187;39;20.856
+corpus_harmonizado_326;2019–2025;Inteligencia artificial;187;9;4.813
+corpus_harmonizado_326;2019–2025;Offshoring;187;5;2.674
+corpus_harmonizado_326;2019–2025;Desigualdade salarial;187;41;21.925
