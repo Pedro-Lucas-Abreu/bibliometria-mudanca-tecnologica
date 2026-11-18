@@ -12,8 +12,10 @@ Resultados do cenário harmonizado (limiar de cinco artigos por palavra-chave): 
 
 ```powershell
 python -m pip install -r requirements.txt
-python scripts/10_reproduzir_corpus_326.py
+python executar_tudo.py
 ```
+
+Também é possível executar diretamente `python scripts/10_reproduzir_corpus_326.py`.
 
 O script usa apenas [a exportação original congelada do OpenAlex](dados/originais_openalex/07_openalex_uniao_vosviewer.json), [os 326 IDs selecionados](dados/harmonizado_326/ids_selecionados.txt) e as correções editoriais explicitadas no próprio código; **não precisa consultar a API**.
 
@@ -29,7 +31,7 @@ Os resultados atualizados são escritos em [resultados/harmonizado_326/](resulta
 
 ### Versão histórica de 208 artigos
 
-Os scripts `01`–`09`, o `executar_tudo.py` e o conteúdo das pastas `resultados/triagem/`, `resultados/analises/` e `resultados/rastreabilidade/` **permanecem preservados como cenário exploratório original de 208 artigos**, para transparência e comparação. Executar `python executar_tudo.py` **reproduz apenas a versão histórica**, não a versão vigente de 326 obras.
+Os scripts `01`–`09`, o `executar_tudo.py` e o conteúdo das pastas `resultados/triagem/`, `resultados/analises/` e `resultados/rastreabilidade/` **permanecem preservados como cenário exploratório original de 208 artigos**, para transparência e comparação. O comando `python executar_tudo.py` agora executa o cenário vigente de 326 obras. Para reproduzir a versão histórica, use `python executar_tudo.py --historico-208`.
 
 ### Manuscrito
 

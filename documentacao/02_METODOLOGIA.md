@@ -1,3 +1,5 @@
+> **Aviso:** esta página descreve principalmente o **cenário histórico de 208 artigos**. A versão vigente de 326 está documentada em [13_HARMONIZACAO_METODOLOGICA_CORPUS_326_18NOV2026.md](13_HARMONIZACAO_METODOLOGICA_CORPUS_326_18NOV2026.md). Não confundir os resultados dos dois cenários.
+
 # Métodos, parâmetros, fórmulas e limitações
 
 ## Pergunta de pesquisa provisória

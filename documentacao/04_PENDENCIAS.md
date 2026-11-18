@@ -1,16 +1,19 @@
-# Pendências científicas — não confundir com problemas de execução
+# Pendências científicas — versão vigente de 326 obras (18/11/2026)
 
-O fato de `python executar_tudo.py` reproduzir um resultado numérico comprova **reprodutibilidade computacional**, mas não garante **validade substantiva**. É preciso trabalhar nos seguintes pontos.
+A fila inicial de **845** registros inconclusivos foi fechada **operacionalmente** com decisões documentais assistidas. Isso não equivale a leitura integral nem a revisão sistemática exaustiva. A reprodução padrão é `python executar_tudo.py`; a versão de 208 é `python executar_tudo.py --historico-208`.
 
-- [ ] Auditar a amostra de 208 títulos/resumos e confirmar elegibilidade temática.
-- [ ] Revisar prioritariamente os 845 classificados como `revisar` com critérios transparentes.
-- [ ] Analisar os títulos duplicados sinalizados e reconciliar versões preprint/periódico/DOI.
-- [ ] Identificar estudos centrais excluídos por não conterem as seis expressões de busca (exemplo clássico de Autor, Levy e Murnane, 2003).
-- [ ] Se a pesquisa incluir IA ou transição verde/digital, formular novas buscas específicas, registrar seus IDs e atualizar a triagem, evitando enviesar para uma conclusão desejada.
-- [ ] Testar dicionário de termos com sinônimos/variações de grafia (thesaurus) e eliminar termos fora do objeto.
-- [ ] Validar tendências de publicação e não apenas frações de keywords na amostra selecionada.
-- [ ] Documentar versões do software e a data de extração da API utilizada para o artigo.
-- [ ] Fazer uma leitura substantiva de literatura e oferecer interpretação econômica para comunidades e pontes identificadas.
-- [ ] Reavaliar estabilidade das redes diante de mudanças no corpus e nos parâmetros de visualização.
+## Ainda precisa de avaliação científica
+- [ ] Auditar os **2.415 registros originalmente não selecionados**; a amostra identificou possíveis falsos negativos (Autor, 2019, *Work of the Past, Work of the Future*, e *The Skill Complementarity of Broadband Internet*, 2015).
+- [ ] Revisar fontes editoriais e elegibilidade de uma amostra independente das **326 obras**; não houve dupla leitura integral.
+- [ ] Investigar o efeito dos **68 sem resumo**, **30 sem DOI** e **57 sem referências indexadas** na cobertura da revisão.
+- [ ] Testar normalizações alternativas das redes, modelos nulos de modularidade e estratégias para empates na atribuição de comunidades.
+- [ ] Se for ampliar IA/verde, criar consultas independentes e aplicar critérios homogêneos, sem misturar corpus novo sem identificação.
+- [ ] Atualizar os slides históricos de 208 artigos antes de uma nova apresentação.
 
-O projeto está preparado para ser mostrado e discutido na reunião, mas **não deve ser descrito como revisão sistemática final ou como análise da literatura completa de IA/verde**.
+## Concluído operacionalmente
+- [x] Revisão documental assistida dos 845 inicialmente inconclusivos.
+- [x] Reconciliação de duplicatas, traduções e anos editoriais na amostra harmonizada.
+- [x] Louvain com 100 sementes, acoplamento e permutação.
+- [x] Publicação do corpus JSON, indicadores, CSVs, código e figuras da versão de 326 no GitHub.
+
+Veja [o relatório vigente](13_HARMONIZACAO_METODOLOGICA_CORPUS_326_18NOV2026.md).

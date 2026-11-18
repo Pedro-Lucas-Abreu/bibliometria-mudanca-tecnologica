@@ -47,7 +47,7 @@ Em 2019–2025: automação 39/187 (20,9%); IA/aprendizado de máquina 9/187 (4,
 
 ## Rastreabilidade e pendências
 
-O pacote de análise entregue separadamente ao pesquisador contém **362 decisões**, corpus OpenAlex JSON de **326 obras**, histórico dos **3.468 registros originais**, auditoria de amostra **180 excluídos**, métricas, código Python reproduzível, figuras e Excel. **Esses arquivos não estão integralmente publicados neste repositório**; este Markdown é somente o registro da versão.
+O pacote de análise entregue separadamente ao pesquisador contém **362 decisões**, corpus OpenAlex JSON de **326 obras**, histórico dos **3.468 registros originais**, auditoria de amostra **180 excluídos**, métricas, código Python reproduzível, figuras e Excel. **Atualização de 18/11/2026:** o JSON de 326 obras, o código de reprodução, as métricas, tabelas e quatro figuras estão publicados em [`resultados/harmonizado_326/`](../resultados/harmonizado_326/). A planilha detalhada de decisões (362 registros) e a auditoria dos excluídos permanecem no pacote entregue separadamente ao pesquisador.
 
 A amostra dos **2.415 registros anteriormente excluídos** apontou dois casos prioritários para reavaliação: David Autor (2019), *Work of the Past, Work of the Future*, e *The Skill Complementarity of Broadband Internet* (2015), além de sete casos secundários. **Eles não foram incluídos no corpus harmonizado**; a amostra não permite declarar cobertura exaustiva.
 
@@ -55,4 +55,9 @@ Limites atuais: **68/326** sem resumo indexado, **30/326** sem DOI, **57/326** s
 
 **Nome recomendado:** *corpus documental harmonizado de 326 obras — cenário conservador (2000–2025)*.
 
-**Importante:** o artigo e o PPTX anteriores usam números do corpus de 208; é necessário atualizá-los antes de apresentar a nova versão como resultados finais.
+**Importante:** o artigo foi atualizado separadamente em 18/11/2026 com os números de 326 obras; o PDF/LaTeX continua fora do GitHub por organização. O PPTX antigo ainda usa 208 artigos e precisa ser atualizado se for apresentado novamente.
+
+
+## Reprodução versionada
+
+Rodar `python executar_tudo.py` para a versão atual de 326 obras ou `python executar_tudo.py --historico-208` para os resultados originais. O workflow automático em `.github/workflows/reproduzir_326.yml` publicou os arquivos de `resultados/harmonizado_326/` após uma execução bem-sucedida.
